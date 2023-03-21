@@ -1,0 +1,1648 @@
+0,1,Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,"Unit Type","Unit Number",City,State,County,Zip,Country,Source
+25.92809106,-80.18045948,25.92822,-80.1802,1,rooftop,1000,"NE 166th St",,,"North Miami Beach",FL,"Miami-Dade County",33162,US,Statewide2
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+14.56439516,121.03686681,0,0,0,,,,,,,,,,,
+51.55141874,-0.14367274,0,0,0,,,,,,,,,,,
+-0.0005579,0.00244549,0,0,0,,,,,,,,,,,
+-8.50127991,117.4246681,0,0,0,,,,,,,,,,,
+-32.71494253,152.07369403,0,0,0,,,,,,,,,,,
+-37.8156,144.9661,0,0,0,,,,,,,,,,,
+49.281004,-123.116904,49.281212,-123.116922,1,rooftop,510,"W Georgia St",,,Vancouver,BC,,V6B,CA,Vancouver
+4.95863,114.98579,0,0,0,,,,,,,,,,,
+33.77676,-84.38317,33.776767,-84.383175,1,rooftop,814,"Juniper St NE",,,Atlanta,GA,"Fulton County",30308,US,Fulton
+33.8873,-118.4026,33.887202,-118.402499,1,rooftop,818,"Manhattan Beach Blvd",,,"Manhattan Beach",CA,"Los Angeles County",90266,US,"Los Angeles"
+52.81643684,-2.10592176,0,0,0,,,,,,,,,,,
+51.55141874,-0.14367274,0,0,0,,,,,,,,,,,
+35.66371198,139.69871521,0,0,0,,,,,,,,,,,
+20.26614252,85.84218979,0,0,0,,,,,,,,,,,
+33.9129982,-117.6703339,33.912873,-117.671307,0.95,nearest_street,18789,"Drill Hole Trl",,,"Chino Hills",CA,"San Bernardino County",91709,US,"TIGER/Line® dataset from the US Census Bureau"
+3.16804444,101.69160556,0,0,0,,,,,,,,,,,
+34.0633,-118.1229,34.063344,-118.122639,1,rooftop,100,"N Garfield Ave",,,"Monterey Park",CA,"Los Angeles County",91754,US,"Los Angeles"
+40.16216216,-75.06897268,40.162502,-75.069011,1,nearest_street,,I-276,,,"Huntingdon Valley",PA,"Montgomery County",19006,US,"TIGER/Line® dataset from the US Census Bureau"
+-1.29144273,36.81503114,0,0,0,,,,,,,,,,,
+53.34412689,-6.26177709,0,0,0,,,,,,,,,,,
+40.78024897,-73.92094955,40.779511,-73.919854,0.98,rooftop,22-79,"19th St",,,Astoria,NY,"Queens County",11105,US,"City of New York"
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+33.10299683,-111.49260043,33.103013,-111.492534,1,rooftop,6844,"E Pine Way",,,Florence,AZ,"Pinal County",85132,US,Pinal
+-1.30736106,36.83457714,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+38.8951,-77.0364,38.895486,-77.0341,0.97,rooftop,1500,"E St NW",,,Washington,DC,"District of Columbia",20005,US,"Statewide DC"
+3.07014877,101.51846332,0,0,0,,,,,,,,,,,
+51.7519,-1.2578,0,0,0,,,,,,,,,,,
+36.17,-119.746,36.160107,-119.744961,0.83,nearest_street,16025,"Medford Ave",,,Stratford,CA,"Kings County",93266,US,"TIGER/Line® dataset from the US Census Bureau"
+-32.77764,152.08522,0,0,0,,,,,,,,,,,
+14.53323256,120.97944306,0,0,0,,,,,,,,,,,
+33.601926,-117.868184,33.601681,-117.867689,0.99,rooftop,833,"Hibiscus Ct",,,"Corona Del Mar",CA,"Orange County",92625,US,Orange
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+38.9394393,-77.0253151,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+14.33893746,121.08432309,0,0,0,,,,,,,,,,,
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+-16.9167,145.767,0,0,0,,,,,,,,,,,
+5.63684386,-0.24916116,0,0,0,,,,,,,,,,,
+42.6960429,27.7112903,0,0,0,,,,,,,,,,,
+-30.72027411,30.47116041,0,0,0,,,,,,,,,,,
+29.744992,-95.365539,29.744718,-95.365394,0.99,rooftop,2105,"Jackson St",,,Houston,TX,"Harris County",77003,US,"City of Houston"
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+33.8362,-117.89,33.836159,-117.890085,1,rooftop,1924,"E Santa Ana St",,,Anaheim,CA,"Orange County",92805,US,"City of Anaheim"
+6.01713,101.9763399,0,0,0,,,,,,,,,,,
+34.09009089,-118.38601314,34.090031,-118.38592,1,rooftop,1019,"N San Vicente Blvd",,,"West Hollywood",CA,"Los Angeles County",90069,US,"Los Angeles"
+-37.6023,144.943,0,0,0,,,,,,,,,,,
+-1.28333,36.8167,0,0,0,,,,,,,,,,,
+42.9265966,-78.6184183,42.926566,-78.618689,1,rooftop,10,"Lancaster Pkwy",,,Lancaster,NY,"Erie County",14086,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+29.53,75.7068,0,0,0,,,,,,,,,,,
+-6.79687834,39.1071434,0,0,0,,,,,,,,,,,
+40.59425,-75.4931,40.594292,-75.492828,1,rooftop,102,"S St Cloud St",,,Allentown,PA,"Lehigh County",18104,US,"City of Allentown"
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+-33.01134,151.59349,0,0,0,,,,,,,,,,,
+21.0,77.0,0,0,0,,,,,,,,,,,
+51.51966071,-0.07520711,0,0,0,,,,,,,,,,,
+50.92752328,-1.4744752,0,0,0,,,,,,,,,,,
+43.137009,-75.192588,43.137192,-75.192537,1,rooftop,3,"Fineview Dr",,,Utica,NY,"Oneida County",13502,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.71455,-74.00714,40.714647,-74.007078,1,rooftop,85,"Chambers St",,,"New York",NY,"New York County",10007,US,"City of New York"
+43.046899,-76.144423,43.046683,-76.144178,1,rooftop,50,"Presidential Plz",,,Syracuse,NY,"Onondaga County",13202,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+29.745253,-95.365795,29.745572,-95.365672,0.99,rooftop,1615,"Gray St",,,Houston,TX,"Harris County",77003,US,"City of Houston"
+41.48495282,-71.52969469,41.48507,-71.529788,1,rooftop,50,"Lower College Rd",,,Kingston,RI,"Washington County",02881,US,"Statewide RI"
+51.57558519,-0.10226432,0,0,0,,,,,,,,,,,
+2.336513,111.845368,0,0,0,,,,,,,,,,,
+50.14426194,8.84801854,0,0,0,,,,,,,,,,,
+-33.8688197,151.2092955,0,0,0,,,,,,,,,,,
+51.562662,-0.17988195,0,0,0,,,,,,,,,,,
+51.0547,-2.73389,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+10.32511086,123.9333719,0,0,0,,,,,,,,,,,
+-28.8315,153.53189,0,0,0,,,,,,,,,,,
+33.9129982,-117.6703339,33.912873,-117.671307,0.95,nearest_street,18789,"Drill Hole Trl",,,"Chino Hills",CA,"San Bernardino County",91709,US,"TIGER/Line® dataset from the US Census Bureau"
+51.5141,-0.1094,0,0,0,,,,,,,,,,,
+33.843014,-117.551455,33.842936,-117.551258,1,rooftop,2768,"Gilbert Ave",,,Corona,CA,"Riverside County",92881,US,Riverside
+53.78547017,-2.69684563,0,0,0,,,,,,,,,,,
+4.94187039,-1.78108405,0,0,0,,,,,,,,,,,
+35.44444444,139.64333333,0,0,0,,,,,,,,,,,
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+33.51256788,-85.94246788,33.512506,-85.942661,1,rooftop,54,"Davie Rd",,,Munford,AL,"Talladega County",36268,US,Talladega
+38.8951,-77.0367,38.895405,-77.038821,0.97,rooftop,1699,"E St NW",,,Washington,DC,"District of Columbia",20006,US,"Statewide DC"
+40.53793088,17.37858529,0,0,0,,,,,,,,,,,
+4.61406707,114.33018297,0,0,0,,,,,,,,,,,
+14.591025,121.014789,0,0,0,,,,,,,,,,,
+54.4873724,-128.57199464,54.490086,-128.572285,0.95,rooftop,5451,"Hwy 37 Hwy",,,Thornhill,BC,,V8G,CA,Province
+-33.848,151.2113,0,0,0,,,,,,,,,,,
+28.53597806,77.34365102,0,0,0,,,,,,,,,,,
+47.65479,-122.32133,47.654796,-122.321334,1,rooftop,660,"NE Northlake Way",,,Seattle,WA,"King County",98105,US,King
+51.38333333,-2.8,0,0,0,,,,,,,,,,,
+52.2272,-0.2859,0,0,0,,,,,,,,,,,
+38.9394494,-77.0253354,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+41.39114,2.15252,0,0,0,,,,,,,,,,,
+41.5909,-93.6209,41.590726,-93.621186,1,rooftop,221,"Park St",,,"Des Moines",IA,"Polk County",50309,US,Polk
+45.63697547,-73.56726563,45.635688,-73.56765,0.98,rooftop,9055,"Boul Henri-Bourassa E",,,Rivière-Des-Prairies,QC,,H1E,CA,"Service Des Infrastructures Du Réseau Routier - Division de la géomatique"
+32.5447,-99.7692,32.544408,-99.770614,0.98,rooftop,8001,"United States Highway 277",,,Abilene,TX,"Jones County",79601,US,"Statewide TX"
+-32.90044407,151.67289321,0,0,0,,,,,,,,,,,
+38.577,-121.4947,38.577572,-121.495415,0.99,rooftop,915,"Capitol Mall",,,Sacramento,CA,"Sacramento County",95814,US,Sacramento
+29.74476,-95.363532,29.74473,-95.363639,1,nearest_street,,I-45,,,Houston,TX,"Harris County",77003,US,"TIGER/Line® dataset from the US Census Bureau"
+40.0,-100.0,39.987227,-99.95629,0.11,nearest_street,12401,"Rd B",,,Norton,KS,"Norton County",67654,US,"TIGER/Line® dataset from the US Census Bureau"
+53.5141,-6.54118,0,0,0,,,,,,,,,,,
+33.93745327,-118.40215254,33.93829,-118.40239,0.99,rooftop,6600,"W Unnamed St (lax",,,"Los Angeles",CA,"Los Angeles County",90045,US,"City of Los Angeles"
+32.33001709,-95.29096147,32.32984,-95.290931,1,rooftop,1739,"S Beckham Ave",,,Tyler,TX,"Smith County",75701,US,"Statewide TX"
+32.2222,-110.97004,32.222208,-110.970043,1,rooftop,63,"E Congress St",,,Tucson,AZ,"Pima County",85701,US,Pima
+40.44083191,-79.90445248,40.439118,-79.902613,0.92,nearest_street,6733,"Forbes Ave",,,Pittsburgh,PA,"Allegheny County",15217,US,"TIGER/Line® dataset from the US Census Bureau"
+6.66868,-1.64597,0,0,0,,,,,,,,,,,
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+54.60208723,-5.92705474,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+43.7742911,-79.7164011,43.774235,-79.716361,1,rooftop,12,"Pecan Dr",,,Brampton,ON,,L6P,CA,"City of Brampton"
+32.74,-84.91,32.737699,-84.911548,0.95,rooftop,19,"Hardage Rd",,,Hamilton,GA,"Harris County",31811,US,"Harris County"
+45.79181566,6.97247707,0,0,0,,,,,,,,,,,
+42.04823194,-87.68544422,42.048116,-87.685479,1,rooftop,1638,"Maple Ave",,,Evanston,IL,"Cook County",60201,US,"City of Evanston"
+-1.336063,36.72609,0,0,0,,,,,,,,,,,
+34.0564,-118.2445,34.05623,-118.24512,0.99,rooftop,225,"N Hill St",,,"Los Angeles",CA,"Los Angeles County",90012,US,"City of Los Angeles"
+41.391,2.1517,0,0,0,,,,,,,,,,,
+10.59178352,-61.12863161,0,0,0,,,,,,,,,,,
+14.57460218,121.01875957,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+34.09073173,-118.3136344,34.0906,-118.31379,1,rooftop,5700,"W Santa Monica Blvd",,,"Los Angeles",CA,"Los Angeles County",90038,US,"City of Los Angeles"
+37.3376,-121.8865,37.337516,-121.88635,1,rooftop,200,"E Santa Clara St",,,"San Jose",CA,"Santa Clara County",95113,US,"Santa Clara"
+36.1651,-86.7837,36.164628,-86.783986,0.99,rooftop,300,"7th Ave N",,,Nashville,TN,"Davidson County",37219,US,"City of Nashville"
+37.55755615,-77.47761924,37.557618,-77.47757,1,rooftop,3100,"Hanover Ave",,,Richmond,VA,"Richmond City",23221,US,"City of Richmond"
+33.446775,-86.792531,33.446213,-86.792248,0.99,rooftop,700,"Montgomery Hwy",,,"Vestavia Hills",AL,"Jefferson County",35216,US,Jefferson
+42.7039319,-71.4487162,42.703755,-71.448922,1,rooftop,65,"Spit Brook Rd",,,Nashua,NH,"Hillsborough County",03060,US,"City of Nashua"
+6.44902562,80.00010255,0,0,0,,,,,,,,,,,
+52.80409,-2.12199,0,0,0,,,,,,,,,,,
+41.9543,-72.3023,41.954045,-72.301893,0.97,nearest_street,2,"State Hwy 190",,,"Stafford Springs",CT,"Capitol Planning Region",06076,US,"TIGER/Line® dataset from the US Census Bureau"
+39.09,-122.76,39.087316,-122.762784,0.94,rooftop,7995,"High Valley Rd",,,Lucerne,CA,"Lake County",95458,US,Lake
+53.25747681,-6.21813771,0,0,0,,,,,,,,,,,
+33.7393,-84.1658,33.739224,-84.165805,1,rooftop,2062,"Young Rd",,,Lithonia,GA,"Dekalb County",30058,US,Dekalb
+30.23280191,-97.74052179,30.232606,-97.740592,1,rooftop,1605,"E Oltorf St",,,Austin,TX,"Travis County",78741,US,Capcog
+33.10299683,-111.49260043,33.103013,-111.492534,1,rooftop,6844,"E Pine Way",,,Florence,AZ,"Pinal County",85132,US,Pinal
+30.26705,-97.73676,30.267064,-97.736773,1,rooftop,611,"Red River St",,,Austin,TX,"Travis County",78701,US,Capcog
+40.4456828,-80.0181852,40.445699,-80.018129,1,rooftop,1,"Allegheny Ave",,,Pittsburgh,PA,"Allegheny County",15212,US,Allegheny
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+26.642734,-81.867813,26.642744,-81.867668,1,rooftop,1735,"Jackson St",,,"Fort Myers",FL,"Lee County",33901,US,Statewide2
+35.0873,-106.6506,35.087363,-106.650607,1,rooftop,301,"Tijeras Ave NW",,,Albuquerque,NM,"Bernalillo County",87102,US,Bernalillo
+47.35896,-122.1179,47.358687,-122.117852,1,rooftop,27112,"167th Pl SE",,,Covington,WA,"King County",98042,US,King
+41.85,-87.6501,41.850474,-87.650968,0.99,rooftop,977,"W Cermak Rd",,,Chicago,IL,"Cook County",60608,US,Cook
+45.5064511,-122.7756216,45.50646,-122.77537,1,rooftop,1850,"SW 96th Ave",,,Portland,OR,"Washington County",97225,US,Wallowa
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+41.08108108,-112.03587781,41.080835,-112.036197,0.99,rooftop,548,"W 2300 S",,,Syracuse,UT,"Davis County",84075,US,"Utah AGRC (and individual UT counties)"
+45.5236111,-122.675,45.523793,-122.675435,0.97,nearest_street,500,"NW Couch St",,,Portland,OR,"Multnomah County",97209,US,"TIGER/Line® dataset from the US Census Bureau"
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+33.87271445,-117.58630699,33.872554,-117.58586,0.99,rooftop,1150,"10th St",,,Corona,CA,"Riverside County",92882,US,Riverside
+34.09073173,-118.3136344,34.0906,-118.31379,1,rooftop,5700,"W Santa Monica Blvd",,,"Los Angeles",CA,"Los Angeles County",90038,US,"City of Los Angeles"
+38.9394366,-77.0253386,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+40.81431,-73.94411,40.814306,-73.944106,1,rooftop,2271,"Adam Clayton Powell Jr Blvd",,,"New York",NY,"New York County",10030,US,"City of New York"
+41.3854908,-75.7080613,41.38561,-75.708138,1,rooftop,217,"N Main St",,,Taylor,PA,"Lackawanna County",18517,US,Lackawanna
+41.39112,2.15302,0,0,0,,,,,,,,,,,
+29.68557,-82.30515,29.685573,-82.305149,1,rooftop,3575,"NE 15th St",,,Gainesville,FL,"Alachua County",32609,US,Alachua
+47.3930434,-122.198186,47.393111,-122.198183,1,rooftop,10550,"SE 233rd Pl",,,Kent,WA,"King County",98031,US,King
+36.2146,-81.6804,36.216101,-81.679336,0.97,rooftop,151,"College St",,,Boone,NC,"Watauga County",28607,US,Watauga
+38.8951,-77.0367,38.895405,-77.038821,0.97,rooftop,1699,"E St NW",,,Washington,DC,"District of Columbia",20006,US,"Statewide DC"
+40.71270142,-74.00589108,40.712903,-74.006303,0.99,rooftop,254,Broadway,,,"New York",NY,"New York County",10002,US,"City of New York"
+37.00748198,-121.57053318,37.007567,-121.570681,1,rooftop,7467,"Eigleberry St",,,Gilroy,CA,"Santa Clara County",95020,US,"Santa Clara"
+31.1801,-91.8749,31.172003,-91.852257,0.2,nearest_street,153,"Buck Rd",,,Hessmer,LA,"Avoyelles Parish",71341,US,"TIGER/Line® dataset from the US Census Bureau"
+45.6706102,-111.074249,45.670592,-111.074295,1,rooftop,2820,"W College St",,,Bozeman,MT,"Gallatin County",59715,US,"Montana State Library"
+29.7602,-95.3694,29.760193,-95.369362,1,rooftop,901,"Bagby St",,,Houston,TX,"Harris County",77002,US,"City of Houston"
+34.03442257,-117.95907344,34.034091,-117.95948,0.99,rooftop,15173,"Beckner St",,,"La Puente",CA,"Los Angeles County",91744,US,"Los Angeles"
+1.30694444,103.83305556,0,0,0,,,,,,,,,,,
+-26.1741,28.3327,0,0,0,,,,,,,,,,,
+40.7207559,-74.0007613,40.72081,-74.000867,1,rooftop,459,Broadway,,,"New York",NY,"New York County",10013,US,"City of New York"
+-1.94363391,30.05970893,0,0,0,,,,,,,,,,,
+33.80004,-118.39187,33.799756,-118.391591,0.99,rooftop,340,"Palos Verdes Dr W",,,"Palos Verdes Estates",CA,"Los Angeles County",90274,US,"Los Angeles"
+-32.9167,151.75,0,0,0,,,,,,,,,,,
+45.5959464,-123.147054,45.594517,-123.147461,0.97,rooftop,10265,"NW Kansas City Rd",,,"Forest Grove",OR,"Washington County",97116,US,Wallowa
+51.64865112,-0.2230522,0,0,0,,,,,,,,,,,
+40.6795,-73.7021,40.678984,-73.702544,0.99,rooftop,11,"Birchwood Dr N",,,"Valley Stream",NY,"Nassau County",11580,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+43.7742911,-79.7164011,43.774235,-79.716361,1,rooftop,12,"Pecan Dr",,,Brampton,ON,,L6P,CA,"City of Brampton"
+45.6677507,-73.47935661,45.66937,-73.491993,0.84,nearest_street,5,"52E Ave",,,Pointe-Aux-Trembles,QC,,H1A,CA,"CanVec+ by Natural Resources Canada"
+40.01709786,116.52099609,0,0,0,,,,,,,,,,,
+49.3158291,-123.12316786,49.315829,-123.123168,0.88,nearest_place,,,,,Vancouver,BC,,V7P,CA,"CanVec+ by Natural Resources Canada"
+41.36636,2.15231,0,0,0,,,,,,,,,,,
+40.6795,-73.7021,40.678984,-73.702544,0.99,rooftop,11,"Birchwood Dr N",,,"Valley Stream",NY,"Nassau County",11580,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+49.24963985,-123.12713019,49.249551,-123.128026,0.99,rooftop,1011,"W King Edward Ave",,,Vancouver,BC,,V6H,CA,Vancouver
+33.87498,-117.5452,33.875088,-117.545249,1,nearest_street,,I-15,,,Corona,CA,"Riverside County",92879,US,"TIGER/Line® dataset from the US Census Bureau"
+31.87604553,-110.68322497,31.875045,-110.676884,0.88,nearest_street,21194,"S Sonoita Mountain View Hwy",,,Vail,AZ,"Pima County",85641,US,"TIGER/Line® dataset from the US Census Bureau"
+-37.8167,144.947,0,0,0,,,,,,,,,,,
+21.32189997,39.94367123,0,0,0,,,,,,,,,,,
+10.6568,-61.5224,0,0,0,,,,,,,,,,,
+31.87604553,-110.68322497,31.875045,-110.676884,0.88,nearest_street,21194,"S Sonoita Mountain View Hwy",,,Vail,AZ,"Pima County",85641,US,"TIGER/Line® dataset from the US Census Bureau"
+14.57233418,120.98221026,0,0,0,,,,,,,,,,,
+37.54274326,126.98244019,0,0,0,,,,,,,,,,,
+33.10299683,-111.49253267,33.103013,-111.492534,1,rooftop,6844,"E Pine Way",,,Florence,AZ,"Pinal County",85132,US,Pinal
+33.87498,-117.5452,33.875088,-117.545249,1,nearest_street,,I-15,,,Corona,CA,"Riverside County",92879,US,"TIGER/Line® dataset from the US Census Bureau"
+28.53861577,77.27617188,0,0,0,,,,,,,,,,,
+33.3768394,-112.1204347,33.376302,-112.120707,0.99,rooftop,7611,"S 29th Ave",,,Laveen,AZ,"Maricopa County",85339,US,Maricopa
+6.06550876,80.22601177,0,0,0,,,,,,,,,,,
+34.0564,-118.2445,34.05623,-118.24512,0.99,rooftop,225,"N Hill St",,,"Los Angeles",CA,"Los Angeles County",90012,US,"City of Los Angeles"
+40.7239304,-73.9935532,40.723933,-73.993549,1,rooftop,262,"Elizabeth St",,,"New York",NY,"New York County",10012,US,"City of New York"
+29.5653,-98.6893,29.565434,-98.689207,1,rooftop,13147,"Bandera Rd",,,Helotes,TX,"Bexar County",78023,US,"Statewide TX"
+39.66566715,-105.2054746,39.665567,-105.205079,0.99,rooftop,2901,"Ship Rock Rd",,,Morrison,CO,"Jefferson County",80465,US,Jefferson
+40.6795,-73.7021,40.678984,-73.702544,0.99,rooftop,11,"Birchwood Dr N",,,"Valley Stream",NY,"Nassau County",11580,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+-37.90364,145.32981,0,0,0,,,,,,,,,,,
+33.92548451,-117.8983577,33.925432,-117.898386,1,rooftop,319,"W Lambert Rd",,,Brea,CA,"Orange County",92821,US,"City of Brea"
+49.3158291,-123.12316786,49.315829,-123.123168,0.88,nearest_place,,,,,Vancouver,BC,,V7P,CA,"CanVec+ by Natural Resources Canada"
+-7.78884187,110.36591575,0,0,0,,,,,,,,,,,
+47.6046,-122.3308,47.604558,-122.330754,1,rooftop,403,"Columbia St",,,Seattle,WA,"King County",98104,US,King
+37.54274326,126.98244019,0,0,0,,,,,,,,,,,
+43.7742911,-79.7164011,43.774235,-79.716361,1,rooftop,12,"Pecan Dr",,,Brampton,ON,,L6P,CA,"City of Brampton"
+11.6369,124.845,0,0,0,,,,,,,,,,,
+38.9906657,-77.026088,38.990637,-77.02609,1,rooftop,8101,"Georgia Ave",,,"Silver Spring",MD,"Montgomery County",20910,US,"Statewide MD"
+33.601926,-117.868184,33.601681,-117.867689,0.99,rooftop,833,"Hibiscus Ct",,,"Corona Del Mar",CA,"Orange County",92625,US,Orange
+41.94345,-87.64969,41.943457,-87.649598,1,rooftop,3354,"N Halsted St",,,Chicago,IL,"Cook County",60657,US,Cook
+33.98637433,-118.47328114,33.98643,-118.47319,1,rooftop,1617,"S Ocean Front Walk",,,Venice,CA,"Los Angeles County",90291,US,"City of Los Angeles"
+32.421,-106.644,32.420808,-106.643809,1,rooftop,9525,"Corona Rd",,,"Las Cruces",NM,"Doña Ana County",88012,US,"Statewide NM"
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+-37.79469826,144.77623246,0,0,0,,,,,,,,,,,
+42.025,-93.6169,42.024887,-93.617189,1,rooftop,500,"Main St",,,Ames,IA,"Story County",50010,US,"Statewide IA"
+33.87498,-117.5452,33.875088,-117.545249,1,nearest_street,,I-15,,,Corona,CA,"Riverside County",92879,US,"TIGER/Line® dataset from the US Census Bureau"
+-33.92053449,151.08986928,0,0,0,,,,,,,,,,,
+49.22826439,-123.04986139,49.228186,-123.049828,1,rooftop,2740,"E 46th Ave",,,Vancouver,BC,,V5S,CA,Province
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+40.66905,-74.2175,40.668993,-74.217543,1,rooftop,303,"Morris Ave",,,Elizabeth,NJ,"Union County",07208,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+-37.8156,144.9661,0,0,0,,,,,,,,,,,
+-32.93784776,151.74478493,0,0,0,,,,,,,,,,,
+49.22826439,-123.04986139,49.228186,-123.049828,1,rooftop,2740,"E 46th Ave",,,Vancouver,BC,,V5S,CA,Province
+1.30096,103.83896,0,0,0,,,,,,,,,,,
+33.87498,-117.5452,33.875088,-117.545249,1,nearest_street,,I-15,,,Corona,CA,"Riverside County",92879,US,"TIGER/Line® dataset from the US Census Bureau"
+40.16216216,-75.06897268,40.162502,-75.069011,1,nearest_street,,I-276,,,"Huntingdon Valley",PA,"Montgomery County",19006,US,"TIGER/Line® dataset from the US Census Bureau"
+-27.4722,153.027,0,0,0,,,,,,,,,,,
+-32.16166667,147.01777778,0,0,0,,,,,,,,,,,
+22.28442574,114.15326151,0,0,0,,,,,,,,,,,
+-37.8156,144.9661,0,0,0,,,,,,,,,,,
+33.87498,-117.5452,33.875088,-117.545249,1,nearest_street,,I-15,,,Corona,CA,"Riverside County",92879,US,"TIGER/Line® dataset from the US Census Bureau"
+25.7751,-80.1936,25.7751,-80.19361,1,rooftop,1,"NE 1st St",,,Miami,FL,"Miami-Dade County",33132,US,Statewide2
+33.87498,-117.5452,33.875088,-117.545249,1,nearest_street,,I-15,,,Corona,CA,"Riverside County",92879,US,"TIGER/Line® dataset from the US Census Bureau"
+49.24963985,-123.12713019,49.249551,-123.128026,0.99,rooftop,1011,"W King Edward Ave",,,Vancouver,BC,,V6H,CA,Vancouver
+40.01709786,116.52099609,0,0,0,,,,,,,,,,,
+40.76390128,-73.68255615,40.763878,-73.682756,1,rooftop,467,"Links Dr S",,,Roslyn,NY,"Nassau County",11576,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+49.22826439,-123.04986139,49.228186,-123.049828,1,rooftop,2740,"E 46th Ave",,,Vancouver,BC,,V5S,CA,Province
+-32.89027778,-68.84722222,0,0,0,,,,,,,,,,,
+-33.85976385,151.21015549,0,0,0,,,,,,,,,,,
+40.01709786,116.52099609,0,0,0,,,,,,,,,,,
+39.77609507,-104.96943042,39.77619,-104.969253,1,rooftop,4242,"Wynkoop St",,,Denver,CO,"Denver County",80216,US,"Statewide CO"
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+36.06693768,-115.25240039,36.067659,-115.252303,0.99,rooftop,6635,"S Tenaya Way",,,"Las Vegas",NV,"Clark County",89113,US,"Las Vegas"
+33.633537,-117.876686,33.633599,-117.875492,0.98,rooftop,2227,"Aralia St",,,"Newport Beach",CA,"Orange County",92660,US,Orange
+49.3158291,-123.12316786,49.315829,-123.123168,0.88,nearest_place,,,,,Vancouver,BC,,V7P,CA,"CanVec+ by Natural Resources Canada"
+40.16216216,-75.06897268,40.162502,-75.069011,1,nearest_street,,I-276,,,"Huntingdon Valley",PA,"Montgomery County",19006,US,"TIGER/Line® dataset from the US Census Bureau"
+41.39472,2.15365,0,0,0,,,,,,,,,,,
+40.6795,-73.7021,40.678984,-73.702544,0.99,rooftop,11,"Birchwood Dr N",,,"Valley Stream",NY,"Nassau County",11580,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.71455,-74.00714,40.714647,-74.007078,1,rooftop,85,"Chambers St",,,"New York",NY,"New York County",10007,US,"City of New York"
+39.157646,-76.795862,39.157314,-76.796581,0.99,rooftop,8255,"Washington Blvd",,,Jessup,MD,"Howard County",20794,US,Howard
+14.60325913,121.10190709,0,0,0,,,,,,,,,,,
+3.1581,101.5983,0,0,0,,,,,,,,,,,
+33.8443,-116.5279,33.844429,-116.527676,1,rooftop,1717,"E Vista Chino",,,"Palm Springs",CA,"Riverside County",92262,US,Riverside
+6.66868,-1.64597,0,0,0,,,,,,,,,,,
+21.0,77.0,0,0,0,,,,,,,,,,,
+39.1666,-86.5348,39.166789,-86.535059,1,rooftop,210,"W Kirkwood Ave",,,Bloomington,IN,"Monroe County",47404,US,"City of Bloomington"
+14.57628288,121.05312855,0,0,0,,,,,,,,,,,
+33.5167,-110.517,33.5167,-110.517,0.04,nearest_place,,,,,"San Carlos",AZ,"Gila County",85550,US,"TIGER/Line® dataset from the US Census Bureau"
+53.3453135,-6.23896746,0,0,0,,,,,,,,,,,
+-32.2456,148.6073,0,0,0,,,,,,,,,,,
+45.4406255,-73.6213656,45.4404,-73.622205,0.99,rooftop,7551,"Boul Newman",,,Lasalle,QC,,H8N,CA,"Service Des Infrastructures Du Réseau Routier - Division de la géomatique"
+28.62629866,77.20146466,0,0,0,,,,,,,,,,,
+14.56890752,120.98775982,0,0,0,,,,,,,,,,,
+14.62806262,121.0388113,0,0,0,,,,,,,,,,,
+45.08533,-93.26326,45.08559,-93.262687,0.99,rooftop,6499,"University Ave NE",,,Minneapolis,MN,"Anoka County",55432,US,Anoka
+43.46354,11.87766,0,0,0,,,,,,,,,,,
+49.28248253,-123.12721877,49.282428,-123.127359,1,rooftop,1075,"Nelson St",,,Vancouver,BC,,V6E,CA,Province
+21.32189997,39.94367123,0,0,0,,,,,,,,,,,
+33.601926,-117.868184,33.601681,-117.867689,0.99,rooftop,833,"Hibiscus Ct",,,"Corona Del Mar",CA,"Orange County",92625,US,Orange
+40.1811,44.5136,0,0,0,,,,,,,,,,,
+25.2835,51.5284,0,0,0,,,,,,,,,,,
+39.8647,-86.2604,39.864774,-86.260464,1,rooftop,5625,"Rains Ln",,,Indianapolis,IN,"Marion County",46254,US,"Statewide IN"
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+23.18237689,79.92525637,0,0,0,,,,,,,,,,,
+45.4167,-75.7,45.416743,-75.699997,1,rooftop,255,"Nepean St",,,Ottawa,ON,,K2P,CA,"City of Ottawa"
+51.57532205,-0.10373815,0,0,0,,,,,,,,,,,
+-33.8736,150.9536,0,0,0,,,,,,,,,,,
+-33.81853013,151.29624917,0,0,0,,,,,,,,,,,
+33.1917,-117.3799,33.191799,-117.379917,1,rooftop,158,"S Myers St",,,Oceanside,CA,"San Diego County",92054,US,Sandoval
+59.3333,18.0833,0,0,0,,,,,,,,,,,
+54.5539044,-5.9810833,0,0,0,,,,,,,,,,,
+51.8976151,-2.51333714,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+25.0458,121.5339,0,0,0,,,,,,,,,,,
+40.74593584,-73.84350331,40.744321,-73.844255,0.97,rooftop,56-9,"Grand Central Pkwy",,,Corona,NY,"Queens County",11368,US,"City of New York"
+13.71889952,100.59631018,0,0,0,,,,,,,,,,,
+26.7086,-80.0572,26.70859,-80.05715,1,rooftop,600,"S Rosemary Ave",,,"West Palm Beach",FL,"Palm Beach County",33401,US,Statewide2
+14.47569676,120.98588705,0,0,0,,,,,,,,,,,
+49.89812844,-97.06589934,49.898197,-97.065735,1,rooftop,1573,"Regent Ave W",,,Winnipeg,MB,,R3W,CA,"City of Winnipeg"
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+45.5236111,-122.675,45.523793,-122.675435,0.97,nearest_street,500,"NW Couch St",,,Portland,OR,"Multnomah County",97209,US,"TIGER/Line® dataset from the US Census Bureau"
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+52.39170171,-0.53782683,0,0,0,,,,,,,,,,,
+13.72654503,100.51046133,0,0,0,,,,,,,,,,,
+-37.8156,144.9661,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+51.562662,-0.17988195,0,0,0,,,,,,,,,,,
+-33.91376,151.26668,0,0,0,,,,,,,,,,,
+40.1811,44.5136,0,0,0,,,,,,,,,,,
+38.577,-121.4947,38.577572,-121.495415,0.99,rooftop,915,"Capitol Mall",,,Sacramento,CA,"Sacramento County",95814,US,Sacramento
+43.261849,-2.930573,0,0,0,,,,,,,,,,,
+-37.88513139,145.16690103,0,0,0,,,,,,,,,,,
+44.8424032,-79.90477388,44.842437,-79.904945,1,rooftop,1471,"Champlain Rd",,,Tiny,ON,,L9M,CA,Simcoe
+-33.77707,151.12074,0,0,0,,,,,,,,,,,
+23.7302,90.4152,0,0,0,,,,,,,,,,,
+54.5538701,-5.9811718,0,0,0,,,,,,,,,,,
+33.597429,-84.497518,33.597598,-84.497982,0.99,rooftop,5750,"Buffington Rd",,,Atlanta,GA,"Fulton County",30349,US,Fulton
+36.08100024,-115.04546349,36.081367,-115.045589,0.99,nearest_street,,I-515,,,Henderson,NV,"Clark County",89014,US,"TIGER/Line® dataset from the US Census Bureau"
+21.0,77.0,0,0,0,,,,,,,,,,,
+45.6677507,-73.47935661,45.66937,-73.491993,0.84,nearest_street,5,"52E Ave",,,Pointe-Aux-Trembles,QC,,H1A,CA,"CanVec+ by Natural Resources Canada"
+4.95863,114.98579,0,0,0,,,,,,,,,,,
+43.117636,-77.621901,43.117545,-77.621866,1,rooftop,1675,"MT Hope Ave",,,Rochester,NY,"Monroe County",14620,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+50.84746285,-1.79266683,0,0,0,,,,,,,,,,,
+-6.1803,106.8233,0,0,0,,,,,,,,,,,
+38.9394433,-77.0253087,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+40.71270142,-74.00589108,40.712903,-74.006303,0.99,rooftop,254,Broadway,,,"New York",NY,"New York County",10002,US,"City of New York"
+-36.78579,144.73329,0,0,0,,,,,,,,,,,
+1.29306,103.856,0,0,0,,,,,,,,,,,
+39.35713404,-74.46848886,39.357495,-74.467561,0.99,rooftop,4300,"W End Ave",,,"Atlantic City",NJ,"Atlantic County",08401,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+3.1588,101.7105,0,0,0,,,,,,,,,,,
+28.5974128,77.19102783,0,0,0,,,,,,,,,,,
+-28.02787311,153.42854887,0,0,0,,,,,,,,,,,
+29.745689,-95.3657,29.745649,-95.365818,1,rooftop,2019,"Crawford St",,,Houston,TX,"Harris County",77002,US,"City of Houston"
+28.53861577,77.27617188,0,0,0,,,,,,,,,,,
+42.28088379,-83.74719987,42.280825,-83.747091,1,rooftop,115,"S 4th Ave",,,"Ann Arbor",MI,"Washtenaw County",48104,US,Washtenaw
+25.21993306,55.28569967,0,0,0,,,,,,,,,,,
+53.33805867,-6.25289383,0,0,0,,,,,,,,,,,
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+-6.17973466,107.0114648,0,0,0,,,,,,,,,,,
+39.93943891,-77.65633742,39.939594,-77.656351,1,rooftop,301,"Roy Pitz Ave",,,Chambersburg,PA,"Franklin County",17201,US,Franklin
+23.74579,92.72295,0,0,0,,,,,,,,,,,
+13.86200131,100.65507813,0,0,0,,,,,,,,,,,
+37.55767822,-77.47768751,37.557641,-77.477668,1,rooftop,3102,"Hanover Ave",,,Richmond,VA,"Richmond City",23221,US,"City of Richmond"
+36.17,-119.746,36.160107,-119.744961,0.83,nearest_street,16025,"Medford Ave",,,Stratford,CA,"Kings County",93266,US,"TIGER/Line® dataset from the US Census Bureau"
+52.31666667,5.55,0,0,0,,,,,,,,,,,
+40.1797,-74.0244,40.179596,-74.024524,1,rooftop,610,"10th Ave",,,Belmar,NJ,"Monmouth County",07719,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+33.8443,-116.5279,33.844429,-116.527676,1,rooftop,1717,"E Vista Chino",,,"Palm Springs",CA,"Riverside County",92262,US,Riverside
+39.93615,-75.03056,39.936604,-75.031344,0.99,rooftop,457,"Haddonfield Rd",,,"Cherry Hill",NJ,"Camden County",08002,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+51.49361418,-0.18324368,0,0,0,,,,,,,,,,,
+38.0323,-78.4781,38.032431,-78.478004,1,rooftop,401,"E High St",,,Charlottesville,VA,"Charlottesville City",22902,US,"Virginia Geographic Information Network (VGIN)"
+28.0717,-80.6534,28.071584,-80.6536,1,rooftop,501,"Hollywood Blvd",,,Melbourne,FL,"Brevard County",32904,US,Statewide2
+43.7742911,-79.7164011,43.774235,-79.716361,1,rooftop,12,"Pecan Dr",,,Brampton,ON,,L6P,CA,"City of Brampton"
+40.7153023,-73.9446592,40.715331,-73.944678,1,rooftop,359,"Graham Ave",,,Brooklyn,NY,"Kings County",11211,US,"City of New York"
+53.5141,-6.54118,0,0,0,,,,,,,,,,,
+53.4793,-2.2463,0,0,0,,,,,,,,,,,
+40.3098,-75.1308,40.309726,-75.130751,1,rooftop,14,"State St",,,Doylestown,PA,"Bucks County",18901,US,Bucks
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+23.85232186,120.91342934,0,0,0,,,,,,,,,,,
+25.6714,-100.3189,25.671377,-100.318736,1,rooftop,611,"Juan Ignacio Ramón",,,Monterrey,NLE,,64000,MX,"Statewide NLE"
+32.4649,-83.7212,32.464823,-83.721061,1,rooftop,1521,"Houston Lake Rd",,,Perry,GA,"Houston County",31069,US,"Houston County"
+51.2035229,-2.1745497,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+41.27927928,-112.01579486,41.279225,-112.016052,1,rooftop,1644,"W 1200 N",,,Ogden,UT,"Weber County",84404,US,"Utah AGRC (and individual UT counties)"
+46.93971485,7.45147705,0,0,0,,,,,,,,,,,
+38.468,-80.9696,38.466255,-80.967497,0.92,nearest_street,1854,"Swandale Rd",,,Clay,WV,"Clay County",25043,US,"TIGER/Line® dataset from the US Census Bureau"
+31.76005921,-106.40108414,31.760025,-106.40072,0.99,rooftop,6920,"Delta Dr",,,"El Paso",TX,"El Paso County",79905,US,"Statewide TX"
+43.97587,-75.91429,43.975609,-75.914202,1,rooftop,195,"Arsenal St",,,Watertown,NY,"Jefferson County",13601,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+29.78956,-98.72933,29.789499,-98.729481,1,rooftop,109,"River Rd",,,Boerne,TX,"Kendall County",78006,US,"Statewide TX"
+45.5038,-73.5744,45.503757,-73.574296,1,rooftop,2095,"Ave McGill College",,,Montreal,QC,,H3A,CA,"Service Des Infrastructures Du Réseau Routier - Division de la géomatique"
+51.5141,-0.1094,0,0,0,,,,,,,,,,,
+38.9394451,-77.0253333,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+41.27927928,-112.01579486,41.279225,-112.016052,1,rooftop,1644,"W 1200 N",,,Ogden,UT,"Weber County",84404,US,"Utah AGRC (and individual UT counties)"
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+27.5774133,-97.79577473,27.577257,-97.795998,1,rooftop,512,"E 9th St",,,Bishop,TX,"Nueces County",78343,US,"Statewide TX"
+42.3391193,-83.04893464,42.339142,-83.048781,1,rooftop,1600,"Woodward Ave",,,Detroit,MI,"Wayne County",48226,US,Wayne
+41.06054846,-87.27079763,41.061041,-87.270496,0.96,nearest_street,,I-65,,,Rensselaer,IN,"Jasper County",47978,US,"TIGER/Line® dataset from the US Census Bureau"
+29.7054,-95.6854,29.705825,-95.683983,0.98,rooftop,6707,"Farm To Market Rd 1464th Rd",,,Houston,TX,"Fort Bend County",77083,US,"City of Houston"
+42.1497,-74.9384,42.155981,-74.941105,0.86,nearest_street,459,"Reed Rd",,,Hamden,NY,"Delaware County",13782,US,"TIGER/Line® dataset from the US Census Bureau"
+31.760394,-106.487292,31.76005,-106.487282,0.99,rooftop,219,"Mills Ave",,,"El Paso",TX,"El Paso County",79901,US,"Statewide TX"
+-32.90044407,151.67289321,0,0,0,,,,,,,,,,,
+10.6568,-61.5224,0,0,0,,,,,,,,,,,
+43.3504,-84.5603,43.349779,-84.567698,0.88,nearest_street,2327,"E Harrison Rd",,,"Saint Louis",MI,"Gratiot County",48880,US,"TIGER/Line® dataset from the US Census Bureau"
+40.71455,-74.00714,40.714647,-74.007078,1,rooftop,85,"Chambers St",,,"New York",NY,"New York County",10007,US,"City of New York"
+54.5539044,-5.9810833,0,0,0,,,,,,,,,,,
+38.2260577,-122.6276088,38.225954,-122.627405,1,rooftop,603,"Mountain View Ave",,,Petaluma,CA,"Sonoma County",94952,US,Sonoma
+39.85223389,-86.09297791,39.852332,-86.093187,1,rooftop,5494,"N Drexel Ave",,,Indianapolis,IN,"Marion County",46220,US,"Statewide IN"
+53.25744629,-6.21815995,0,0,0,,,,,,,,,,,
+39.567368,-76.666875,39.566715,-76.66612,0.98,rooftop,411,"E Piney Hill Rd",,,"Sparks Glencoe",MD,"Baltimore County",21152,US,"Statewide MD"
+-37.79062,144.86254,0,0,0,,,,,,,,,,,
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+53.34411666,-6.26174338,0,0,0,,,,,,,,,,,
+33.9455,-118.3333,33.945761,-118.333472,0.99,rooftop,3561,"W Century Blvd",,,Inglewood,CA,"Los Angeles County",90303,US,"Los Angeles"
+42.3290408,-83.0398952,42.329054,-83.039817,1,rooftop,400,"E Jefferson",,,Detroit,MI,"Wayne County",48226,US,Wayne
+13.76598429,100.67705078,0,0,0,,,,,,,,,,,
+38.9394549,-77.0253048,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+18.00697849,-76.79315066,0,0,0,,,,,,,,,,,
+43.65258001,-79.39825505,43.652658,-79.398414,1,rooftop,507,"Dundas St W",,,Toronto,ON,,M5T,CA,"City of Toronto"
+40.65001418,-74.19935782,40.649961,-74.199357,1,nearest_street,,I-95,,,Elizabeth,NJ,"Union County",07206,US,"TIGER/Line® dataset from the US Census Bureau"
+39.95246137,-75.13904929,39.952452,-75.138924,1,rooftop,21,"N Chris Columbus Blv",,,Philadelphia,PA,"Philadelphia County",19106,US,Philadelphia
+33.8443,-116.5279,33.844429,-116.527676,1,rooftop,1717,"E Vista Chino",,,"Palm Springs",CA,"Riverside County",92262,US,Riverside
+51.5141,-0.1094,0,0,0,,,,,,,,,,,
+-27.48433966,153.06068416,0,0,0,,,,,,,,,,,
+27.5774133,-97.79577473,27.577257,-97.795998,1,rooftop,512,"E 9th St",,,Bishop,TX,"Nueces County",78343,US,"Statewide TX"
+44.9537029,-93.0899578,44.953488,-93.089797,1,nearest_street,,I-94,,,"Saint Paul",MN,"Ramsey County",55101,US,"TIGER/Line® dataset from the US Census Bureau"
+35.071042,-85.292647,35.071099,-85.292563,1,rooftop,1109,"Hanover St",,,Chattanooga,TN,"Hamilton County",37405,US,"City of Chattanooga"
+45.6677507,-73.47935661,45.66937,-73.491993,0.84,nearest_street,5,"52E Ave",,,Pointe-Aux-Trembles,QC,,H1A,CA,"CanVec+ by Natural Resources Canada"
+-26.4,31.1667,0,0,0,,,,,,,,,,,
+47.47515,-122.20511,47.47532,-122.20522,1,rooftop,536,"Wells Ave S",,,Renton,WA,"King County",98057,US,King
+42.28091431,-83.74719321,42.281123,-83.747105,1,rooftop,200,"E Huron St",,,"Ann Arbor",MI,"Washtenaw County",48104,US,Semcog
+34.27412,-119.26095,34.27406,-119.261042,1,rooftop,2632,"E Main St",,,Ventura,CA,"Ventura County",93003,US,Ventura
+51.5141,-0.1094,0,0,0,,,,,,,,,,,
+33.10299683,-111.49260008,33.103013,-111.492534,1,rooftop,6844,"E Pine Way",,,Florence,AZ,"Pinal County",85132,US,Pinal
+13.76598429,100.67705078,0,0,0,,,,,,,,,,,
+14.67794303,121.24410909,0,0,0,,,,,,,,,,,
+39.85235596,-86.09314051,39.852332,-86.093187,1,rooftop,5494,"N Drexel Ave",,,Indianapolis,IN,"Marion County",46220,US,"Statewide IN"
+51.5141,-0.1094,0,0,0,,,,,,,,,,,
+14.66519548,121.02064741,0,0,0,,,,,,,,,,,
+51.5141,-0.1094,0,0,0,,,,,,,,,,,
+33.782261,-84.382171,33.782139,-84.382159,1,rooftop,150,"10th St NE",,,Atlanta,GA,"Fulton County",30309,US,Fulton
+41.39323,2.15438,0,0,0,,,,,,,,,,,
+50.71201,-2.44158,0,0,0,,,,,,,,,,,
+23.80446654,90.36008259,0,0,0,,,,,,,,,,,
+13.76598429,100.67705078,0,0,0,,,,,,,,,,,
+28.86859812,-13.84315004,0,0,0,,,,,,,,,,,
+49.2819,-123.1204,49.281549,-123.120948,0.99,rooftop,818,"Howe St",,,Vancouver,BC,,V6B,CA,Vancouver
+-37.8156,144.9661,0,0,0,,,,,,,,,,,
+45.39824817,-92.59728962,45.39757,-92.597208,0.99,rooftop,2131,Ush,,,"Saint Croix Falls",WI,"Polk County",54024,US,"Statewide WI"
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+3.05900406,101.47168087,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+40.7779,-73.9675,40.776423,-73.963942,0.95,rooftop,970,"5th Ave",,,"New York",NY,"New York County",10075,US,"City of New York"
+40.16216216,-75.06897268,40.162502,-75.069011,1,nearest_street,,I-276,,,"Huntingdon Valley",PA,"Montgomery County",19006,US,"TIGER/Line® dataset from the US Census Bureau"
+33.7497,-84.7231,33.75021,-84.722677,0.99,rooftop,5770,"Hwy 92 - Fairburn Rd",,,Douglasville,GA,"Douglas County",30134,US,Douglas
+-33.8719165,151.20155028,0,0,0,,,,,,,,,,,
+-37.79565,145.30575,0,0,0,,,,,,,,,,,
+45.6677507,-73.47935661,45.66937,-73.491993,0.84,nearest_street,5,"52E Ave",,,Pointe-Aux-Trembles,QC,,H1A,CA,"CanVec+ by Natural Resources Canada"
+-37.88940544,144.77291365,0,0,0,,,,,,,,,,,
+38.99374022,-119.95920002,38.998403,-119.954459,0.92,nearest_street,,"US 50",,,"Zephyr Cove",NV,"Douglas County",89448,US,"TIGER/Line® dataset from the US Census Bureau"
+55.852472,-4.309626,0,0,0,,,,,,,,,,,
+33.8753,-117.566,33.87508,-117.56608,1,rooftop,142,"E 6th St",,,Corona,CA,"Riverside County",92879,US,Riverside
+52.341824,4.8884716,0,0,0,,,,,,,,,,,
+51.045,-114.057,51.044568,-114.057324,0.99,rooftop,322,"9th Ave SE",,,Calgary,AB,,T2G,CA,Calgary
+41.39427,2.15261,0,0,0,,,,,,,,,,,
+37.54274326,126.98244019,0,0,0,,,,,,,,,,,
+-37.80662831,144.88287353,0,0,0,,,,,,,,,,,
+25.0354,121.4488,0,0,0,,,,,,,,,,,
+-37.81489,144.9707699,0,0,0,,,,,,,,,,,
+31.10333333,77.17222222,0,0,0,,,,,,,,,,,
+44.8424032,-79.90477388,44.842437,-79.904945,1,rooftop,1471,"Champlain Rd",,,Tiny,ON,,L9M,CA,Simcoe
+21.3041461,-157.85385272,21.303722,-157.853554,0.99,rooftop,710,"S King St",,,Honolulu,HI,"Honolulu County",96813,US,Honolulu
+33.87271445,-117.58630699,33.872554,-117.58586,0.99,rooftop,1150,"10th St",,,Corona,CA,"Riverside County",92882,US,Riverside
+41.94847336,-87.65399357,41.94845,-87.654038,1,rooftop,3639,"N Sheffield Ave",,,Chicago,IL,"Cook County",60613,US,Cook
+-32.12074612,133.68232727,0,0,0,,,,,,,,,,,
+25.32001333,51.52078333,0,0,0,,,,,,,,,,,
+-33.88093486,151.20953189,0,0,0,,,,,,,,,,,
+25.11228943,55.13732879,0,0,0,,,,,,,,,,,
+25.32001333,51.52078333,0,0,0,,,,,,,,,,,
+43.445858,-80.498898,43.445659,-80.499267,0.99,rooftop,80,"Schneider Ave",,,Kitchener,ON,,N2G,CA,"City of Kitchener"
+39.78197047,-75.69231988,39.781828,-75.69221,1,rooftop,518,"Defoe Rd",,,Hockessin,DE,"New Castle County",19707,US,"New Castle"
+34.07149368,-118.27292338,34.07148,-118.27296,1,rooftop,2434,"W Temple St",,,"Los Angeles",CA,"Los Angeles County",90026,US,"City of Los Angeles"
+3.08011699,101.54708099,0,0,0,,,,,,,,,,,
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+-38.0,145.083,0,0,0,,,,,,,,,,,
+43.7742911,-79.7164011,43.774235,-79.716361,1,rooftop,12,"Pecan Dr",,,Brampton,ON,,L6P,CA,"City of Brampton"
+53.9747249,-1.0778778,0,0,0,,,,,,,,,,,
+39.08056641,-84.51797117,39.080507,-84.518014,1,rooftop,409,"Emma St",,,Covington,KY,"Kenton County",41011,US,Kenton
+28.53861577,77.27617188,0,0,0,,,,,,,,,,,
+53.34411666,-6.26174338,0,0,0,,,,,,,,,,,
+40.7122695,-74.00638147,40.711762,-74.006201,0.99,rooftop,42,"Park Row",,,"New York",NY,"New York County",10038,US,"City of New York"
+5.97609078,116.08616482,0,0,0,,,,,,,,,,,
+-1.317,36.825,0,0,0,,,,,,,,,,,
+37.145,127.069,0,0,0,,,,,,,,,,,
+36.08193045,-115.14609442,36.081044,-115.146984,0.98,rooftop,5795,"Paradise Rd",,,"Las Vegas",NV,"Clark County",89119,US,"Las Vegas"
+33.8753,-117.566,33.87508,-117.56608,1,rooftop,142,"E 6th St",,,Corona,CA,"Riverside County",92879,US,Riverside
+37.4586,-122.2,37.458602,-122.199723,1,rooftop,88,"Spencer Ln",,,Atherton,CA,"San Mateo County",94027,US,"San Mateo"
+5.33177234,100.28694749,0,0,0,,,,,,,,,,,
+13.73734426,100.59184646,0,0,0,,,,,,,,,,,
+34.736,-92.3311,34.736421,-92.331372,0.99,rooftop,1701,"S Harrison St",,,"Little Rock",AR,"Pulaski County",72204,US,Pulaski
+33.843014,-117.551455,33.842936,-117.551258,1,rooftop,2768,"Gilbert Ave",,,Corona,CA,"Riverside County",92881,US,Riverside
+25.7751,-80.1936,25.7751,-80.19361,1,rooftop,1,"NE 1st St",,,Miami,FL,"Miami-Dade County",33132,US,Statewide2
+43.0201795,-81.1999697,43.02013,-81.20027,1,rooftop,1187,"Lancaster St",,,London,ON,,N5V,CA,"City of London"
+44.948126,-93.228285,44.948065,-93.228026,1,rooftop,3007,"Lake St E",,,Minneapolis,MN,"Hennepin County",55406,US,Hennepin
+-33.866921,151.191784,0,0,0,,,,,,,,,,,
+50.7403,-1.8443,0,0,0,,,,,,,,,,,
+-33.7968,151.124,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+49.3158291,-123.12316786,49.315829,-123.123168,0.88,nearest_place,,,,,Vancouver,BC,,V7P,CA,"CanVec+ by Natural Resources Canada"
+21.501826,39.250179,0,0,0,,,,,,,,,,,
+-37.81659295,144.96730316,0,0,0,,,,,,,,,,,
+14.498673,121.049963,0,0,0,,,,,,,,,,,
+45.67070719,-111.07427917,45.670592,-111.074295,1,rooftop,2820,"W College St",,,Bozeman,MT,"Gallatin County",59715,US,"Montana State Library"
+26.01687687,86.16537596,0,0,0,,,,,,,,,,,
+-38.14787917,144.37568484,0,0,0,,,,,,,,,,,
+49.28248253,-123.12721877,49.282428,-123.127359,1,rooftop,1075,"Nelson St",,,Vancouver,BC,,V6E,CA,Province
+-37.81778517,145.21569729,0,0,0,,,,,,,,,,,
+-33.89967284,151.21241867,0,0,0,,,,,,,,,,,
+34.72704556,113.59565576,0,0,0,,,,,,,,,,,
+51.562662,-0.17988195,0,0,0,,,,,,,,,,,
+30.2677,-97.7475,30.267595,-97.747422,1,rooftop,410,"W 4th St",,,Austin,TX,"Travis County",78701,US,Capcog
+51.51450327,-0.08598901,0,0,0,,,,,,,,,,,
+49.3158291,-123.12316786,49.315829,-123.123168,0.88,nearest_place,,,,,Vancouver,BC,,V7P,CA,"CanVec+ by Natural Resources Canada"
+38.939445,-77.0253174,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+14.64334,121.02544,0,0,0,,,,,,,,,,,
+-37.8,145.283,0,0,0,,,,,,,,,,,
+-37.8156,144.9661,0,0,0,,,,,,,,,,,
+16.5380247,80.5990376,0,0,0,,,,,,,,,,,
+1.31411,103.83941,0,0,0,,,,,,,,,,,
+50.7422779,-3.4664453,0,0,0,,,,,,,,,,,
+27.9473,-82.4558,27.947397,-82.455607,1,rooftop,501,"E Jackson St",,,Tampa,FL,"Hillsborough County",33602,US,Hillsborough
+-36.7449074,144.2975464,0,0,0,,,,,,,,,,,
+34.0564,-118.2445,34.05623,-118.24512,0.99,rooftop,225,"N Hill St",,,"Los Angeles",CA,"Los Angeles County",90012,US,"City of Los Angeles"
+41.39228,2.1527,0,0,0,,,,,,,,,,,
+33.10299683,-111.49260008,33.103013,-111.492534,1,rooftop,6844,"E Pine Way",,,Florence,AZ,"Pinal County",85132,US,Pinal
+37.78562,20.89895,0,0,0,,,,,,,,,,,
+51.8833,-0.4151,0,0,0,,,,,,,,,,,
+43.648,-79.3872,43.647904,-79.387524,1,rooftop,150,"Pearl St",,,Toronto,ON,,M5V,CA,"City of Toronto"
+51.50538967,-0.12485951,0,0,0,,,,,,,,,,,
+28.5974128,77.19102783,0,0,0,,,,,,,,,,,
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+40.64240016,-73.78176351,40.644058,-73.782332,0.97,rooftop,4,"Central Terminal Area",,,Jamaica,NY,"Queens County",11430,US,"City of New York"
+35.356509,-94.353208,35.357253,-94.353994,0.98,rooftop,2620,"Riviera Cir",,,"Fort Smith",AR,"Sebastian County",72903,US,"Arkansas Geographic Information Office"
+40.37650321,-3.69884866,0,0,0,,,,,,,,,,,
+-38.8239937,146.1183777,0,0,0,,,,,,,,,,,
+51.51333,-0.088947,0,0,0,,,,,,,,,,,
+41.5818,-87.1866,41.581829,-87.186675,1,rooftop,5909,"McCasland Ave",,,Portage,IN,"Porter County",46368,US,Porter
+40.682701,-73.6669,40.682051,-73.666984,0.99,rooftop,85,"Gerard Ave W",,,Malverne,NY,"Nassau County",11565,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+45.5064511,-122.7756216,45.50646,-122.77537,1,rooftop,1850,"SW 96th Ave",,,Portland,OR,"Washington County",97225,US,Wallowa
+14.63927286,121.03634781,0,0,0,,,,,,,,,,,
+3.0412,101.4477,0,0,0,,,,,,,,,,,
+42.72948041,-73.67911901,42.729198,-73.679248,0.99,rooftop,51,"College Ave",,,Troy,NY,"Rensselaer County",12180,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+39.290399,-76.691246,39.290586,-76.691088,1,rooftop,4415,"Maple Wood Dr",,,Baltimore,MD,"Baltimore City",21229,US,"Statewide MD"
+13.05940791,-59.53799046,0,0,0,,,,,,,,,,,
+16.02427435,120.24060363,0,0,0,,,,,,,,,,,
+32.7673,-89.6812,32.767561,-89.686981,0.88,nearest_street,197,"Holly Berry Rd",,,Carthage,MS,"Leake County",39051,US,"TIGER/Line® dataset from the US Census Bureau"
+40.84631,-73.27496,40.846311,-73.274962,1,rooftop,12,"Dolly Dr",,,Commack,NY,"Suffolk County",11725,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+-27.65920792,152.91430719,0,0,0,,,,,,,,,,,
+3.1581,101.5983,0,0,0,,,,,,,,,,,
+51.2627485,-1.0712097,0,0,0,,,,,,,,,,,
+-33.420552,151.339716,0,0,0,,,,,,,,,,,
+53.3699856,-2.9251494,0,0,0,,,,,,,,,,,
+42.412191,-83.087973,42.412096,-83.088457,0.99,rooftop,14400,"Oakland Ave",,,"Highland Park",MI,"Wayne County",48203,US,Semcog
+53.85797119,-9.29734306,0,0,0,,,,,,,,,,,
+27.9639971,-82.5116794,27.963758,-82.511805,1,rooftop,4040,"W Boy Scout Blvd",,,Tampa,FL,"Hillsborough County",33607,US,Hillsborough
+10.6969,122.564,0,0,0,,,,,,,,,,,
+40.75679555,-73.84625137,40.755909,-73.845715,0.98,rooftop,123-1,"Roosevelt Ave",,,Corona,NY,"Queens County",11368,US,"City of New York"
+39.9253668,-75.1647316,39.925382,-75.164799,1,rooftop,1932,"S Jessup St",,,Philadelphia,PA,"Philadelphia County",19148,US,Philadelphia
+51.146608,4.4815212,0,0,0,,,,,,,,,,,
+51.47333522,-0.49165495,0,0,0,,,,,,,,,,,
+3.1581,101.5983,0,0,0,,,,,,,,,,,
+14.6494,121.1063,0,0,0,,,,,,,,,,,
+38.25845191,-104.62068823,38.258477,-104.620678,1,rooftop,119,"Broadway Ave",,,Pueblo,CO,"Pueblo County",81004,US,"Statewide CO"
+34.0564,-118.2445,34.05623,-118.24512,0.99,rooftop,225,"N Hill St",,,"Los Angeles",CA,"Los Angeles County",90012,US,"City of Los Angeles"
+26.38093227,50.21262646,0,0,0,,,,,,,,,,,
+1.30918115,103.78524632,0,0,0,,,,,,,,,,,
+40.682701,-73.6669,40.682051,-73.666984,0.99,rooftop,85,"Gerard Ave W",,,Malverne,NY,"Nassau County",11565,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.7779,-73.9675,40.776423,-73.963942,0.95,rooftop,970,"5th Ave",,,"New York",NY,"New York County",10075,US,"City of New York"
+-29.0,24.0,0,0,0,,,,,,,,,,,
+28.13333333,-81.63166667,28.132991,-81.631718,0.99,rooftop,616,"Copeland Dr",,,"Haines City",FL,"Polk County",33844,US,"MapWise (and individual Florida counties)"
+14.6439,121.037,0,0,0,,,,,,,,,,,
+-37.8156,144.9661,0,0,0,,,,,,,,,,,
+37.8029,-122.2721,37.802641,-122.271814,0.99,rooftop,1180,Broadway,,,Oakland,CA,"Alameda County",94607,US,Alameda
+33.122,-117.297,33.121146,-117.297709,0.98,rooftop,1368,"Sapphire Dr",,,Carlsbad,CA,"San Diego County",92011,US,Sandoval
+34.82086794,-82.27951981,34.820872,-82.279504,1,rooftop,1503,"Woodruff Rd",,,Greenville,SC,"Greenville County",29607,US,Greenville
+54.98595081,-1.66552711,0,0,0,,,,,,,,,,,
+-24.93599933,27.15961514,0,0,0,,,,,,,,,,,
+3.0662,101.5203,0,0,0,,,,,,,,,,,
+1.20537268,124.59037887,0,0,0,,,,,,,,,,,
+40.84631,-73.27496,40.846311,-73.274962,1,rooftop,12,"Dolly Dr",,,Commack,NY,"Suffolk County",11725,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+39.34106445,-76.63124015,39.341149,-76.631176,1,rooftop,504,"Overhill Rd",,,Baltimore,MD,"Baltimore City",21210,US,"Statewide MD"
+53.24927565,-4.14592194,0,0,0,,,,,,,,,,,
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+27.8333,-81.717,27.842641,-81.717488,0.84,nearest_street,5828,"Walker Lake Rd",,,Bartow,FL,"Polk County",33830,US,"TIGER/Line® dataset from the US Census Bureau"
+13.78556003,100.74634999,0,0,0,,,,,,,,,,,
+28.5974128,77.19102783,0,0,0,,,,,,,,,,,
+45.782429,-108.507636,45.782404,-108.507452,1,rooftop,2820,"2nd Ave N",,,Billings,MT,"Yellowstone County",59101,US,"Montana State Library"
+10.77,106.6815,0,0,0,,,,,,,,,,,
+43.046899,-76.144423,43.046683,-76.144178,1,rooftop,50,"Presidential Plz",,,Syracuse,NY,"Onondaga County",13202,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+3.80061379,103.32173669,0,0,0,,,,,,,,,,,
+1.44,103.78,0,0,0,,,,,,,,,,,
+28.5974128,77.19102783,0,0,0,,,,,,,,,,,
+-3.3657255,29.4021805,0,0,0,,,,,,,,,,,
+21.3041461,-157.85385272,21.303722,-157.853554,0.99,rooftop,710,"S King St",,,Honolulu,HI,"Honolulu County",96813,US,Honolulu
+40.75794459,-73.98552775,40.757718,-73.985426,1,rooftop,1528,Broadway,,,"New York",NY,"New York County",10036,US,"City of New York"
+-32.25,24.55,0,0,0,,,,,,,,,,,
+54.0,-2.0,0,0,0,,,,,,,,,,,
+28.45193495,77.0367846,0,0,0,,,,,,,,,,,
+40.77477477,-73.92481696,40.774849,-73.924754,1,rooftop,19-20,"Astoria Park S",,,Astoria,NY,"Queens County",11102,US,"City of New York"
+-32.89883091,151.73867941,0,0,0,,,,,,,,,,,
+-38.6999564,145.8158074,0,0,0,,,,,,,,,,,
+25.456869,49.552948,0,0,0,,,,,,,,,,,
+-33.9167,151.242,0,0,0,,,,,,,,,,,
+41.4768,-72.0998,41.476807,-72.099774,0.99,nearest_street,1,"Fielding Ter",,,Uncasville,CT,"Southeastern Connecticut Planning Region",06382,US,"TIGER/Line® dataset from the US Census Bureau"
+-25.0,135.0,0,0,0,,,,,,,,,,,
+24.41865003,54.45311144,0,0,0,,,,,,,,,,,
+54.5539027,-5.9811487,0,0,0,,,,,,,,,,,
+42.04958495,-70.18895739,42.049612,-70.188905,1,rooftop,214,"Commercial St",,,Provincetown,MA,"Barnstable County",02657,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+30.2652922,-97.7438747,30.265349,-97.743939,1,rooftop,"106 1/2","W 3rd St",,,Austin,TX,"Travis County",78701,US,Capcog
+32.219,-110.9708,32.218887,-110.97118,0.99,rooftop,204,"S Stone Ave",,,Tucson,AZ,"Pima County",85701,US,Pima
+40.6617543,-73.9253818,40.661846,-73.925219,1,rooftop,146,"E 94th St",,,Brooklyn,NY,"Kings County",11212,US,"City of New York"
+38.930147,-77.390745,38.930416,-77.390795,1,nearest_street,,"VA 286",,,Herndon,VA,"Fairfax County",20171,US,"TIGER/Line® dataset from the US Census Bureau"
+44.2563,-89.6385,44.253529,-89.640653,0.91,nearest_street,12198,"County Rd D",,,Bancroft,WI,"Portage County",54921,US,"TIGER/Line® dataset from the US Census Bureau"
+35.9886,-78.9072,35.988613,-78.907018,1,rooftop,660,"Blackwell St",,,Durham,NC,"Durham County",27701,US,Durham
+40.8298688,-96.7012424,40.83001,-96.701569,1,rooftop,1711,"N 14th St",,,Lincoln,NE,"Lancaster County",68508,US,Lincoln
+33.74643516,-84.38708941,33.745931,-84.38691,0.99,rooftop,330,"Capitol Ave SE",,,Atlanta,GA,"Fulton County",30334,US,Fulton
+39.291045,-76.691777,39.291062,-76.691797,1,rooftop,4508,"Scarlet Oak Ln",,,Baltimore,MD,"Baltimore City",21229,US,"Statewide MD"
+1.64951,103.25613,0,0,0,,,,,,,,,,,
+35.91326984,-86.86500554,35.913418,-86.865274,1,rooftop,428,"Lewisburg Ave",,,Franklin,TN,"Williamson County",37064,US,Franklin
+26.38093227,50.21262646,0,0,0,,,,,,,,,,,
+45.67070719,-111.07427917,45.670592,-111.074295,1,rooftop,2820,"W College St",,,Bozeman,MT,"Gallatin County",59715,US,"Montana State Library"
+51.405713,-0.222341,0,0,0,,,,,,,,,,,
+37.669,-84.6514,37.668113,-84.649823,0.93,nearest_street,154,"Fork Church Rd",,,Lancaster,KY,"Garrard County",40444,US,"TIGER/Line® dataset from the US Census Bureau"
+-37.79740237,144.8915224,0,0,0,,,,,,,,,,,
+36.8522,-76.2808,36.851892,-76.28017,0.99,rooftop,600,"Church St",,,Norfolk,VA,"Norfolk City",23501,US,"Virginia Geographic Information Network (VGIN)"
+43.7742911,-79.7164011,43.774235,-79.716361,1,rooftop,12,"Pecan Dr",,,Brampton,ON,,L6P,CA,"City of Brampton"
+34.0261,-117.6241,34.026093,-117.624314,1,rooftop,2616,"S Parco Ave",,,Ontario,CA,"San Bernardino County",91761,US,"San Bernardino"
+33.835616,-118.186364,33.835583,-118.186673,1,rooftop,4399,"Linden Ave",,,"Long Beach",CA,"Los Angeles County",90807,US,"Los Angeles"
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+43.7742911,-79.7164011,43.774235,-79.716361,1,rooftop,12,"Pecan Dr",,,Brampton,ON,,L6P,CA,"City of Brampton"
+32.74,-84.91,32.737699,-84.911548,0.95,rooftop,19,"Hardage Rd",,,Hamilton,GA,"Harris County",31811,US,"Harris County"
+39.75579834,-104.99355212,39.755796,-104.992601,0.99,rooftop,2151,"Blake St",,,Denver,CO,"Denver County",80205,US,Denver
+49.3158291,-123.12316786,49.315829,-123.123168,0.88,nearest_place,,,,,Vancouver,BC,,V7P,CA,"CanVec+ by Natural Resources Canada"
+10.6568,-61.5224,0,0,0,,,,,,,,,,,
+33.633537,-117.876686,33.633599,-117.875492,0.98,rooftop,2227,"Aralia St",,,"Newport Beach",CA,"Orange County",92660,US,Orange
+33.8753,-117.566,33.87508,-117.56608,1,rooftop,142,"E 6th St",,,Corona,CA,"Riverside County",92879,US,Riverside
+40.682701,-73.6669,40.682051,-73.666984,0.99,rooftop,85,"Gerard Ave W",,,Malverne,NY,"Nassau County",11565,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+17.9833,-76.8,0,0,0,,,,,,,,,,,
+29.745681,-95.365478,29.745769,-95.365464,1,nearest_street,,I-45,,,Houston,TX,"Harris County",77003,US,"TIGER/Line® dataset from the US Census Bureau"
+40.70533084,-74.0010583,40.705859,-74.001945,0.99,rooftop,95,"Marginal St",,,Brooklyn,NY,"New York County",11207,US,"City of New York"
+29.745556,-95.365805,29.745649,-95.365818,1,rooftop,2019,"Crawford St",,,Houston,TX,"Harris County",77002,US,"City of Houston"
+13.76598429,100.67705078,0,0,0,,,,,,,,,,,
+-32.69446,152.12913,0,0,0,,,,,,,,,,,
+33.8753,-117.566,33.87508,-117.56608,1,rooftop,142,"E 6th St",,,Corona,CA,"Riverside County",92879,US,Riverside
+29.745512,-95.36573,29.745572,-95.365672,1,rooftop,1615,"Gray St",,,Houston,TX,"Harris County",77003,US,"City of Houston"
+34.04312,-118.26711,34.04257,-118.266944,0.99,rooftop,751,"W 12th St",,,"Los Angeles",CA,"Los Angeles County",90015,US,"Los Angeles"
+29.7509421,-95.3574956,29.750874,-95.357472,1,nearest_street,,"US 59",,,Houston,TX,"Harris County",77003,US,"TIGER/Line® dataset from the US Census Bureau"
+21.670473,39.150318,0,0,0,,,,,,,,,,,
+29.747081,-95.365195,29.746843,-95.365038,1,rooftop,1602,"St Joseph Pkwy",,,Houston,TX,"Harris County",77003,US,"City of Houston"
+47.7216264,-122.2936724,47.72168,-122.293461,1,rooftop,12716,"Lake City Way NE",,,Seattle,WA,"King County",98125,US,King
+43.67712775,-79.61178192,43.677128,-79.611782,0.72,nearest_place,,,,,Mississauga,ON,,L5T,CA,"CanVec+ by Natural Resources Canada"
+38.887694,-77.084086,38.887694,-77.084175,1,rooftop,1200,"N Courthouse Rd",,,Arlington,VA,"Arlington County",22201,US,Arlington
+53.00827539,-1.09675772,0,0,0,,,,,,,,,,,
+37.5373,-77.4371,37.53702,-77.437017,1,rooftop,115,"S 9th St",,,Richmond,VA,"Richmond City",23219,US,"City of Richmond"
+40.682701,-73.6669,40.682051,-73.666984,0.99,rooftop,85,"Gerard Ave W",,,Malverne,NY,"Nassau County",11565,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+39.78652499,-75.69757755,39.786591,-75.697391,1,rooftop,447,"Hockessin Cor",,,Hockessin,DE,"New Castle County",19707,US,"New Castle"
+54.5539027,-5.9811487,0,0,0,,,,,,,,,,,
+38.4035258,-122.81888,38.403519,-122.818887,1,rooftop,101,"Morris St",,,Sebastopol,CA,"Sonoma County",95472,US,Sonoma
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+42.3498,-83.06001,42.349781,-83.060116,1,rooftop,3929,"Woodward Ave",,,Detroit,MI,"Wayne County",48201,US,Wayne
+42.3145,-83.0378,42.314503,-83.037914,1,rooftop,536,"Pelissier St",,,"Delisle's Corners",ON,,N9A,CA,Essex
+41.39302,2.155,0,0,0,,,,,,,,,,,
+40.65,-73.95,40.649871,-73.94991,1,rooftop,185,"Erasmus St",,,Brooklyn,NY,"Kings County",11226,US,"City of New York"
+40.73863,-73.98977,40.738629,-73.989767,1,rooftop,890,Broadway,,,"New York",NY,"New York County",10003,US,"City of New York"
+33.5936,-117.875,33.593626,-117.875497,0.99,rooftop,3001,"Ocean Blvd",,,"Corona Del Mar",CA,"Orange County",92625,US,Orange
+39.828175,-98.5795,39.828722,-98.577453,0.97,rooftop,27032,"Hwy 191 Hwy",,,Lebanon,KS,"Smith County",66952,US,"Statewide KS"
+-33.91111732,151.15549417,0,0,0,,,,,,,,,,,
+33.9534,-84.5406,33.953412,-84.540582,1,rooftop,397,"Lawrence St",,,Marietta,GA,"Cobb County",30060,US,"Cobb County"
+40.73895,-73.98896,40.738947,-73.988962,1,rooftop,31,"E 20th St",,,"New York",NY,"New York County",10003,US,"City of New York"
+-33.8925,151.278611,0,0,0,,,,,,,,,,,
+52.4314,-1.89406,0,0,0,,,,,,,,,,,
+33.8753,-117.566,33.87508,-117.56608,1,rooftop,142,"E 6th St",,,Corona,CA,"Riverside County",92879,US,Riverside
+44.00672,-79.44972,44.006645,-79.449513,1,rooftop,129,"John West Way",,,Aurora,ON,,L4G,CA,"City of Markham"
+48.67351,-54.03513,48.673485,-54.035221,0.99,nearest_street,116,"Station Rd",,,Glovertown,NL,,A0G,CA,"CanVec+ by Natural Resources Canada"
+39.85714722,-105.06089825,39.857169,-105.060621,1,rooftop,8820,"Westminster Blvd",,,Westminster,CO,"Jefferson County",80031,US,Jefferson
+51.43854,-0.12791,0,0,0,,,,,,,,,,,
+38.8951,-77.0364,38.895486,-77.0341,0.97,rooftop,1500,"E St NW",,,Washington,DC,"District of Columbia",20005,US,"Statewide DC"
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+42.533344,-83.119239,42.533286,-83.119256,1,rooftop,1111,"W 14 Mile Rd",,,"Madison Heights",MI,"Oakland County",48071,US,Semcog
+21.32189997,39.94367123,0,0,0,,,,,,,,,,,
+40.64367643,-73.78272134,40.644058,-73.782332,0.99,rooftop,4,"Central Terminal Area",,,Jamaica,NY,"Queens County",11430,US,"City of New York"
+53.5141,-6.54118,0,0,0,,,,,,,,,,,
+40.7207559,-74.0007613,40.72081,-74.000867,1,rooftop,459,Broadway,,,"New York",NY,"New York County",10013,US,"City of New York"
+-27.36124022,153.09157359,0,0,0,,,,,,,,,,,
+28.10669,-81.627,28.106684,-81.627012,1,rooftop,548,"E Hinson Ave",,,"Haines City",FL,"Polk County",33844,US,Statewide2
+21.3041461,-157.85385272,21.303722,-157.853554,0.99,rooftop,710,"S King St",,,Honolulu,HI,"Honolulu County",96813,US,Honolulu
+-28.0183,153.3921,0,0,0,,,,,,,,,,,
+27.725,-82.7414,27.72504,-82.74129,1,rooftop,5090,"Gulf Blvd",,,"St Pete Beach",FL,"Pinellas County",33706,US,Statewide2
+14.57844359,121.11885358,0,0,0,,,,,,,,,,,
+-37.813632,144.963323,0,0,0,,,,,,,,,,,
+-27.51793703,152.99796845,0,0,0,,,,,,,,,,,
+32.33792114,-95.30254545,32.337795,-95.302514,1,rooftop,1002,"S College Ave",,,Tyler,TX,"Smith County",75701,US,"Statewide TX"
+38.57393752,-101.16210938,38.568951,-101.137949,0.21,nearest_street,1300,"County Rd J",,,Marienthal,KS,"Wichita County",67863,US,"TIGER/Line® dataset from the US Census Bureau"
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+49.3158291,-123.12316786,49.315829,-123.123168,0.88,nearest_place,,,,,Vancouver,BC,,V7P,CA,"CanVec+ by Natural Resources Canada"
+36.38311768,25.44973422,0,0,0,,,,,,,,,,,
+32.33789063,-95.3026012,32.337795,-95.302514,1,rooftop,1002,"S College Ave",,,Tyler,TX,"Smith County",75701,US,"Statewide TX"
+-33.81345207,151.21416016,0,0,0,,,,,,,,,,,
+37.54274326,126.98244019,0,0,0,,,,,,,,,,,
+40.01709786,116.52099609,0,0,0,,,,,,,,,,,
+3.10925825,101.46300767,0,0,0,,,,,,,,,,,
+14.38971604,120.9860431,0,0,0,,,,,,,,,,,
+33.8443,-116.5279,33.844429,-116.527676,1,rooftop,1717,"E Vista Chino",,,"Palm Springs",CA,"Riverside County",92262,US,Riverside
+41.39415,2.15272,0,0,0,,,,,,,,,,,
+38.5763,-121.4927,38.576071,-121.491459,0.98,rooftop,1010,"L St",,,Sacramento,CA,"Sacramento County",95814,US,Sacramento
+-27.4692,153.0361,0,0,0,,,,,,,,,,,
+26.1447672,-80.12586594,26.144833,-80.125884,1,rooftop,1408,"NE 17th Ave",,,"Fort Lauderdale",FL,"Broward County",33304,US,Broward
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+-28.104,153.436,0,0,0,,,,,,,,,,,
+49.3158291,-123.12316786,49.315829,-123.123168,0.88,nearest_place,,,,,Vancouver,BC,,V7P,CA,"CanVec+ by Natural Resources Canada"
+-37.8156,144.9661,0,0,0,,,,,,,,,,,
+55.852472,-4.309626,0,0,0,,,,,,,,,,,
+1.50012756,103.77829313,0,0,0,,,,,,,,,,,
+19.0627,72.8764,0,0,0,,,,,,,,,,,
+-27.84702534,153.33908537,0,0,0,,,,,,,,,,,
+-37.8156,144.9661,0,0,0,,,,,,,,,,,
+32.75501104,-117.11546919,32.755033,-117.115423,1,rooftop,3615,"El Cajon Blvd",,,"San Diego",CA,"San Diego County",92104,US,Sandoval
+17.395,78.4676,0,0,0,,,,,,,,,,,
+43.7742911,-79.7164011,43.774235,-79.716361,1,rooftop,12,"Pecan Dr",,,Brampton,ON,,L6P,CA,"City of Brampton"
+53.9747249,-1.0778778,0,0,0,,,,,,,,,,,
+28.53861577,77.27617188,0,0,0,,,,,,,,,,,
+-31.972749,115.787613,0,0,0,,,,,,,,,,,
+37.28859,-121.86514,37.287879,-121.865347,0.99,rooftop,2700,"Carol Dr",,,"San Jose",CA,"Santa Clara County",95125,US,"City of San Jose2"
+-38.04368,145.36748,0,0,0,,,,,,,,,,,
+-37.9694,145.048,0,0,0,,,,,,,,,,,
+-26.39864,153.0919,0,0,0,,,,,,,,,,,
+38.8951,-77.0367,38.895405,-77.038821,0.97,rooftop,1699,"E St NW",,,Washington,DC,"District of Columbia",20006,US,"Statewide DC"
+-32.9167,151.783,0,0,0,,,,,,,,,,,
+39.08047485,-84.51776091,39.080487,-84.51773,1,rooftop,829,"Main St",,,Covington,KY,"Kenton County",41011,US,Kenton
+25.32001333,51.52078333,0,0,0,,,,,,,,,,,
+42.95995783,-85.6739831,42.960005,-85.674073,1,rooftop,133,"Cesar E Chavez Ave SW",,,"Grand Rapids",MI,"Kent County",49503,US,Kent
+14.56281355,121.01599753,0,0,0,,,,,,,,,,,
+13.98904852,100.6166174,0,0,0,,,,,,,,,,,
+-33.69853,150.56842,0,0,0,,,,,,,,,,,
+13.7522,100.494,0,0,0,,,,,,,,,,,
+8.184017,98.297609,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+-27.66798265,152.92096531,0,0,0,,,,,,,,,,,
+49.22826439,-123.04986139,49.228186,-123.049828,1,rooftop,2740,"E 46th Ave",,,Vancouver,BC,,V5S,CA,Province
+-6.99218049,110.34926115,0,0,0,,,,,,,,,,,
+-33.79738147,151.28758733,0,0,0,,,,,,,,,,,
+42.5561,-113.763,42.556342,-113.763751,0.96,nearest_street,1601,"O St",,,Heyburn,ID,"Minidoka County",83336,US,"TIGER/Line® dataset from the US Census Bureau"
+40.86152473,-74.19824222,40.860697,-74.196585,0.96,rooftop,1200,"Valley Rd",,,Wayne,NJ,"Passaic County",07470,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+13.02845001,80.18945399,0,0,0,,,,,,,,,,,
+13.9137824,120.91917999,0,0,0,,,,,,,,,,,
+-37.95130746,145.16482115,0,0,0,,,,,,,,,,,
+35.6573965,139.74830925,0,0,0,,,,,,,,,,,
+26.11759,85.39251,0,0,0,,,,,,,,,,,
+45.63697547,-73.56726563,45.635688,-73.56765,0.98,rooftop,9055,"Boul Henri-Bourassa E",,,Rivière-Des-Prairies,QC,,H1E,CA,"Service Des Infrastructures Du Réseau Routier - Division de la géomatique"
+-6.15117634,106.85956534,0,0,0,,,,,,,,,,,
+40.72444444,-73.51111111,40.724424,-73.511116,1,rooftop,49,"Amber Ln",,,Levittown,NY,"Nassau County",11756,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+25.269535,51.212767,0,0,0,,,,,,,,,,,
+-37.8609841,145.28690993,0,0,0,,,,,,,,,,,
+41.39397,2.15248,0,0,0,,,,,,,,,,,
+-33.92300415,151.09097954,0,0,0,,,,,,,,,,,
+-17.88169551,31.04149783,0,0,0,,,,,,,,,,,
+-32.7073,152.0657,0,0,0,,,,,,,,,,,
+3.07770872,101.71088637,0,0,0,,,,,,,,,,,
+32.33786011,-95.30249525,32.337795,-95.302514,1,rooftop,1002,"S College Ave",,,Tyler,TX,"Smith County",75701,US,"Statewide TX"
+1.63000071,110.32624874,0,0,0,,,,,,,,,,,
+33.49341463,-86.25692368,33.494542,-86.255678,0.97,rooftop,350,"Powells Hideaway Rd",,,"Pell City",AL,"St. Clair County",35128,US,"St Clair"
+30.33500501,76.41611519,0,0,0,,,,,,,,,,,
+32.6629941,-95.4853619,32.662904,-95.485395,1,rooftop,411,"E Broad St",,,Mineola,TX,"Wood County",75773,US,"Statewide TX"
+-36.86395215,147.27944986,0,0,0,,,,,,,,,,,
+1.28151698,103.8657546,0,0,0,,,,,,,,,,,
+53.5415,-113.5016,53.541671,-113.501605,1,rooftop,10130,"105th St NW",,,Edmonton,AB,,T5J,CA,"City of Edmonton"
+31.19547045,121.43251179,0,0,0,,,,,,,,,,,
+38.95400441,-77.03821253,38.954131,-77.03826,1,rooftop,1600,"Kennedy St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+-36.1241,146.8889,0,0,0,,,,,,,,,,,
+14.55683,121.01734,0,0,0,,,,,,,,,,,
+32.6629941,-95.4853619,32.662904,-95.485395,1,rooftop,411,"E Broad St",,,Mineola,TX,"Wood County",75773,US,"Statewide TX"
+45.5064511,-122.7756216,45.50646,-122.77537,1,rooftop,1850,"SW 96th Ave",,,Portland,OR,"Washington County",97225,US,Wallowa
+27.3373,-82.5353,27.336819,-82.535453,0.99,rooftop,1743,"Main St",,,Sarasota,FL,"Sarasota County",34236,US,Sarasota
+21.670473,39.150318,0,0,0,,,,,,,,,,,
+-5.1328,119.4146,0,0,0,,,,,,,,,,,
+53.93130493,-9.02353918,0,0,0,,,,,,,,,,,
+34.09768299,74.80947562,0,0,0,,,,,,,,,,,
+40.1981982,-74.96731779,40.198144,-74.967737,0.99,rooftop,1211,"Old Jordan Rd",,,Southampton,PA,"Bucks County",18966,US,Bucks
+28.5974128,77.19102783,0,0,0,,,,,,,,,,,
+51.562662,-0.17988195,0,0,0,,,,,,,,,,,
+64.0,26.0,0,0,0,,,,,,,,,,,
+3.1581,101.5983,0,0,0,,,,,,,,,,,
+40.49183072,-3.59341667,0,0,0,,,,,,,,,,,
+29.9401216,-90.0825088,29.94009,-90.082598,1,rooftop,2121,"St Andrew St",,,"New Orleans",LA,"Orleans Parish",70113,US,"Orleans Parish"
+42.34448404,-71.07099378,42.344459,-71.071252,1,rooftop,537,"Tremont St",,,Boston,MA,"Suffolk County",02116,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+35.88317301,14.44749561,0,0,0,,,,,,,,,,,
+28.49335936,77.08821749,0,0,0,,,,,,,,,,,
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+38.9394534,-77.0252986,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+21.3041461,-157.85385272,21.303722,-157.853554,0.99,rooftop,710,"S King St",,,Honolulu,HI,"Honolulu County",96813,US,Honolulu
+54.9043697,-1.3911345,0,0,0,,,,,,,,,,,
+-37.9694,145.048,0,0,0,,,,,,,,,,,
+19.2013,72.9655,0,0,0,,,,,,,,,,,
+51.4853,-3.1867,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+21.670473,39.150318,0,0,0,,,,,,,,,,,
+42.23171,-88.30548,42.231617,-88.305034,0.99,rooftop,415,"Congress Pkwy",,,"Crystal Lake",IL,"McHenry County",60014,US,Mchenry
+2.1991,102.253,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+-37.8183999,144.9997799,0,0,0,,,,,,,,,,,
+26.79477899,80.91898441,0,0,0,,,,,,,,,,,
+38.939448,-77.0253205,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+28.5974128,77.19102783,0,0,0,,,,,,,,,,,
+26.4423,50.0898,0,0,0,,,,,,,,,,,
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+38.9394416,-77.0253308,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+38.9394439,-77.0253158,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+-33.84965752,150.90188324,0,0,0,,,,,,,,,,,
+-1.28333333,36.81666667,0,0,0,,,,,,,,,,,
+-23.5475,-46.63611,0,0,0,,,,,,,,,,,
+55.858,-4.259,0,0,0,,,,,,,,,,,
+33.8753,-117.566,33.87508,-117.56608,1,rooftop,142,"E 6th St",,,Corona,CA,"Riverside County",92879,US,Riverside
+40.71747,-73.95005,40.717461,-73.950052,1,rooftop,689,"Lorimer St",,,Brooklyn,NY,"Kings County",11211,US,"City of New York"
+34.7123,-86.5963,34.712445,-86.596435,1,rooftop,2601,"New Orleans St SW",,,Huntsville,AL,"Madison County",35805,US,"City of Huntsville"
+39.7684,-86.158,39.768521,-86.158031,1,rooftop,1,"Monument Cir",,,Indianapolis,IN,"Marion County",46204,US,"Statewide IN"
+38.9394404,-77.0253444,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+33.3167,130.517,0,0,0,,,,,,,,,,,
+33.633537,-117.876686,33.633599,-117.875492,0.98,rooftop,2227,"Aralia St",,,"Newport Beach",CA,"Orange County",92660,US,Orange
+54.5538701,-5.9811718,0,0,0,,,,,,,,,,,
+40.10217547,-83.11023167,40.102148,-83.110028,1,rooftop,6605,"Longshore St",,,Dublin,OH,"Franklin County",43017,US,"City of Columbus"
+-33.6833,150.867,0,0,0,,,,,,,,,,,
+-37.94193642,144.73798636,0,0,0,,,,,,,,,,,
+13.72175488,100.55671346,0,0,0,,,,,,,,,,,
+35.92105103,-86.91682474,35.921096,-86.9167,1,rooftop,5090,"Donovan St",,,Franklin,TN,"Williamson County",37064,US,Franklin
+21.126258,-86.751968,21.126175,-86.753688,0.92,rooftop,SN,Kukulkán,,,Cancún,ROO,,77500,MX,"Statewide ROO"
+30.01801802,-95.30610982,30.018023,-95.305985,1,rooftop,20934,"Noelle Ct",,,Humble,TX,"Harris County",77338,US,"Greater Houston"
+54.9043697,-1.3911345,0,0,0,,,,,,,,,,,
+32.219,-110.9708,32.218887,-110.97118,0.99,rooftop,204,"S Stone Ave",,,Tucson,AZ,"Pima County",85701,US,Pima
+1.29319773,103.85346472,0,0,0,,,,,,,,,,,
+50.85607002,4.35729075,0,0,0,,,,,,,,,,,
+53.75570679,-0.31034759,0,0,0,,,,,,,,,,,
+41.39538,2.15278,0,0,0,,,,,,,,,,,
+51.3572864,-0.1769472,0,0,0,,,,,,,,,,,
+54.55387,-5.981175,0,0,0,,,,,,,,,,,
+51.36384,-0.1703936,0,0,0,,,,,,,,,,,
+29.9546,-90.0751,29.954512,-90.075393,1,rooftop,219,"Loyola Ave",,,"New Orleans",LA,"Orleans Parish",70112,US,"Orleans Parish"
+33.51631,-86.79111,33.516322,-86.791111,1,rooftop,2829,"2nd Ave S",,,Birmingham,AL,"Jefferson County",35233,US,Jefferson
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+37.57794189,-77.53829668,37.577985,-77.538032,1,rooftop,231,"Richmond Way",,,Tuckahoe,VA,"Richmond City",23229,US,"Virginia Geographic Information Network (VGIN)"
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+43.648,-79.3872,43.647904,-79.387524,1,rooftop,150,"Pearl St",,,Toronto,ON,,M5V,CA,"City of Toronto"
+-37.859,144.9792,0,0,0,,,,,,,,,,,
+33.73903513,-84.41532473,33.739387,-84.415429,0.99,rooftop,854,"Oak St SW",,,Atlanta,GA,"Fulton County",30310,US,Fulton
+38.939448,-77.0253205,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+51.55141874,-0.14367274,0,0,0,,,,,,,,,,,
+28.56023513,77.2047075,0,0,0,,,,,,,,,,,
+30.75611277,76.80469061,0,0,0,,,,,,,,,,,
+35.262204,-77.5820908,35.262192,-77.58207,1,rooftop,118,"W North St",,,Kinston,NC,"Lenoir County",28501,US,Lenoir
+32.219,-110.9708,32.218887,-110.97118,0.99,rooftop,204,"S Stone Ave",,,Tucson,AZ,"Pima County",85701,US,Pima
+37.768,-78.2057,37.768792,-78.205908,0.99,rooftop,288,"Gale Hill Rd",,,"Fork Union",VA,"Fluvanna County",23055,US,"Virginia Geographic Information Network (VGIN)"
+39.0568018,-94.58647549,39.056757,-94.586431,1,rooftop,2,"W 39th St",,,"Kansas City",MO,"Jackson County",64111,US,"City of Kansas City"
+39.78825901,-75.69915453,39.788214,-75.69964,0.99,rooftop,1326,"Old Lancaster Pike",,,Hockessin,DE,"New Castle County",19707,US,"New Castle"
+10.6568,-61.5224,0,0,0,,,,,,,,,,,
+33.9393,-84.40775,33.939272,-84.407515,1,rooftop,6700,"Riverside Dr",,,Atlanta,GA,"Fulton County",30328,US,"City of Sandy Springs"
+29.9401216,-90.0825088,29.94009,-90.082598,1,rooftop,2121,"St Andrew St",,,"New Orleans",LA,"Orleans Parish",70113,US,"Orleans Parish"
+33.8753,-117.566,33.87508,-117.56608,1,rooftop,142,"E 6th St",,,Corona,CA,"Riverside County",92879,US,Riverside
+41.40153558,-70.61719894,41.407343,-70.621178,0.87,nearest_street,399,"Great Plains Rd",,,"West Tisbury",MA,"Dukes County",02575,US,"TIGER/Line® dataset from the US Census Bureau"
+-33.89441212,151.26320687,0,0,0,,,,,,,,,,,
+-37.81659295,144.96730316,0,0,0,,,,,,,,,,,
+39.78197047,-75.69231988,39.781828,-75.69221,1,rooftop,518,"Defoe Rd",,,Hockessin,DE,"New Castle County",19707,US,"New Castle"
+33.8753,-117.566,33.87508,-117.56608,1,rooftop,142,"E 6th St",,,Corona,CA,"Riverside County",92879,US,Riverside
+20.87518182,-156.50542087,20.875099,-156.505494,1,rooftop,10,"Kapalaia Pl",,,Wailuku,HI,"Maui County",96793,US,Maui
+31.760394,-106.487292,31.76005,-106.487282,0.99,rooftop,219,"Mills Ave",,,"El Paso",TX,"El Paso County",79901,US,"Statewide TX"
+-11.25833345,-75.13735044,0,0,0,,,,,,,,,,,
+53.29361816,-2.91824341,0,0,0,,,,,,,,,,,
+45.5064511,-122.7756216,45.50646,-122.77537,1,rooftop,1850,"SW 96th Ave",,,Portland,OR,"Washington County",97225,US,Wallowa
+33.87929,-117.5561,33.879063,-117.555975,1,nearest_street,,"CA 91",,,Corona,CA,"Riverside County",92879,US,"TIGER/Line® dataset from the US Census Bureau"
+6.66868,-1.64597,0,0,0,,,,,,,,,,,
+38.62438,-90.1968799,38.624379,-90.196844,1,rooftop,1000,"Clark Ave",,,"Saint Louis",MO,"St. Louis City",63102,US,"City of St Louis"
+53.5141,-6.54118,0,0,0,,,,,,,,,,,
+42.889561,-71.385297,42.889579,-71.385282,1,rooftop,8,"Fieldstone Dr",,,Londonderry,NH,"Rockingham County",03053,US,"Statewide NH"
+28.5421,-81.3775,28.542092,-81.37745,1,rooftop,7,"S Magnolia Ave",,,Orlando,FL,"Orange County",32801,US,Statewide2
+51.5127,-0.0835,0,0,0,,,,,,,,,,,
+36.0292,-115.025,36.029073,-115.02507,1,rooftop,90,"Glendive St",,,Henderson,NV,"Clark County",89012,US,Henderson
+-11.25833345,-75.13735044,0,0,0,,,,,,,,,,,
+26.5992,-81.64689,26.599205,-81.646894,1,rooftop,1102,"Vineyard Pl",,,"Lehigh Acres",FL,"Lee County",33936,US,Lee
+32.2222,-110.97004,32.222208,-110.970043,1,rooftop,63,"E Congress St",,,Tucson,AZ,"Pima County",85701,US,Pima
+33.82925,-117.5277,33.829331,-117.527744,1,nearest_street,,I-15,,,Corona,CA,"Riverside County",92881,US,"TIGER/Line® dataset from the US Census Bureau"
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+33.8753,-117.566,33.87508,-117.56608,1,rooftop,142,"E 6th St",,,Corona,CA,"Riverside County",92879,US,Riverside
+39.5695143,-105.0286363,39.569671,-105.028655,1,rooftop,8167,"Southpark Cir",,,Littleton,CO,"Arapahoe County",80120,US,"Statewide CO"
+-37.83759,144.99567,0,0,0,,,,,,,,,,,
+41.5942046,-88.0224457,41.594416,-88.022451,1,rooftop,V,"S Adelmann Rd",,,Lockport,IL,"Will County",60441,US,Will
+26.5992,-81.64689,26.599205,-81.646894,1,rooftop,1102,"Vineyard Pl",,,"Lehigh Acres",FL,"Lee County",33936,US,Lee
+33.82925,-117.5277,33.829331,-117.527744,1,nearest_street,,I-15,,,Corona,CA,"Riverside County",92881,US,"TIGER/Line® dataset from the US Census Bureau"
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+51.38173,1.3271,0,0,0,,,,,,,,,,,
+38.577,-121.4947,38.577572,-121.495415,0.99,rooftop,915,"Capitol Mall",,,Sacramento,CA,"Sacramento County",95814,US,Sacramento
+44.2563,-89.6385,44.253529,-89.640653,0.91,nearest_street,12198,"County Rd D",,,Bancroft,WI,"Portage County",54921,US,"TIGER/Line® dataset from the US Census Bureau"
+34.07649,-118.35124,34.07649,-118.35124,1,rooftop,309,"N Martel Ave",,,"Los Angeles",CA,"Los Angeles County",90036,US,"City of Los Angeles"
+51.4817157,-3.1730197,0,0,0,,,,,,,,,,,
+33.10299683,-111.49260081,33.103013,-111.492534,1,rooftop,6844,"E Pine Way",,,Florence,AZ,"Pinal County",85132,US,Pinal
+43.74276,-79.61204,43.742754,-79.612032,1,rooftop,160,"Carrier Dr",,,Etobicoke,ON,,M9V,CA,"City of Toronto"
+37.65692139,-77.5253702,37.656825,-77.525607,1,rooftop,10250,"Staples Mill Rd",,,"Glen Allen",VA,"Henrico County",23060,US,"Virginia Geographic Information Network (VGIN)"
+37.00748198,-121.57053318,37.007567,-121.570681,1,rooftop,7467,"Eigleberry St",,,Gilroy,CA,"Santa Clara County",95020,US,"Santa Clara"
+41.39238,2.15186,0,0,0,,,,,,,,,,,
+34.09222,-118.38056,34.092236,-118.380535,1,rooftop,8623,"W Sunset Blvd",,,"West Hollywood",CA,"Los Angeles County",90069,US,"Los Angeles"
+53.817661,-1.581978,0,0,0,,,,,,,,,,,
+29.8732586,-97.9400864,29.873189,-97.940019,1,rooftop,706,"S Guadalupe St",,,"San Marcos",TX,"Hays County",78666,US,Capcog
+40.77274259,-73.972216,40.770263,-73.968429,0.93,rooftop,875,"5th Ave",,,"New York",NY,"New York County",10065,US,"City of New York"
+35.60632886,-77.40764931,35.606368,-77.408517,0.99,rooftop,5,"Medical Dr",,,Greenville,NC,"Pitt County",27834,US,Pitt
+41.39336,2.15252,0,0,0,,,,,,,,,,,
+32.7872,-79.9372,32.787172,-79.937002,1,rooftop,404,"King St",,,Charleston,SC,"Charleston County",29403,US,"City of Charleston"
+51.5141,-0.1094,0,0,0,,,,,,,,,,,
+37.40368127,-121.96612404,37.40325,-121.965937,0.99,rooftop,4929,"Marie P Debartolo Way",,,"Santa Clara",CA,"Santa Clara County",95054,US,"City of Santa Clara"
+39.83301243,-89.63983166,39.833238,-89.638953,0.96,nearest_street,2586,"Main St",,,Springfield,IL,"Sangamon County",62702,US,"TIGER/Line® dataset from the US Census Bureau"
+34.0985439,-118.10833644,34.098554,-118.108407,1,rooftop,546,"W Broadway",,,"San Gabriel",CA,"Los Angeles County",91776,US,"Los Angeles"
+43.7742911,-79.7164011,43.774235,-79.716361,1,rooftop,12,"Pecan Dr",,,Brampton,ON,,L6P,CA,"City of Brampton"
+14.4177,120.9711,0,0,0,,,,,,,,,,,
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+45.5038,-73.5744,45.503757,-73.574296,1,rooftop,2095,"Ave McGill College",,,Montreal,QC,,H3A,CA,"Service Des Infrastructures Du Réseau Routier - Division de la géomatique"
+33.82925,-117.5277,33.829331,-117.527744,1,nearest_street,,I-15,,,Corona,CA,"Riverside County",92881,US,"TIGER/Line® dataset from the US Census Bureau"
+33.8753,-117.566,33.87508,-117.56608,1,rooftop,142,"E 6th St",,,Corona,CA,"Riverside County",92879,US,Riverside
+51.74761963,-1.31350732,0,0,0,,,,,,,,,,,
+31.98114,-90.97839,31.980949,-90.976963,0.98,nearest_street,,"US 61",,,"Port Gibson",MS,"Claiborne County",39150,US,"TIGER/Line® dataset from the US Census Bureau"
+33.82925,-117.5277,33.829331,-117.527744,1,nearest_street,,I-15,,,Corona,CA,"Riverside County",92881,US,"TIGER/Line® dataset from the US Census Bureau"
+48.85827637,2.34820106,0,0,0,,,,,,,,,,,
+33.8753,-117.566,33.87508,-117.56608,1,rooftop,142,"E 6th St",,,Corona,CA,"Riverside County",92879,US,Riverside
+29.9401216,-90.0825088,29.94009,-90.082598,1,rooftop,2121,"St Andrew St",,,"New Orleans",LA,"Orleans Parish",70113,US,"Orleans Parish"
+51.4769,-2.59751,0,0,0,,,,,,,,,,,
+41.39199,2.15297,0,0,0,,,,,,,,,,,
+29.61007475,-98.59415215,29.609611,-98.593931,0.99,rooftop,17802,"La Cantera Pkwy",,,"San Antonio",TX,"Bexar County",78257,US,"City of San Antonio"
+53.38085016,-1.4700222,0,0,0,,,,,,,,,,,
+29.8732586,-97.9400864,29.873189,-97.940019,1,rooftop,706,"S Guadalupe St",,,"San Marcos",TX,"Hays County",78666,US,Capcog
+44.9537029,-93.0899578,44.953488,-93.089797,1,nearest_street,,I-94,,,"Saint Paul",MN,"Ramsey County",55101,US,"TIGER/Line® dataset from the US Census Bureau"
+52.7311,13.3951,0,0,0,,,,,,,,,,,
+22.28292,114.1384378,0,0,0,,,,,,,,,,,
+14.6166,121.08358,0,0,0,,,,,,,,,,,
+53.5141,-6.54118,0,0,0,,,,,,,,,,,
+-37.74980448,144.91091925,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+41.0201735,-85.17071966,41.020189,-85.170735,1,rooftop,2505,"Lower Huntington Rd",,,"Fort Wayne",IN,"Allen County",46809,US,"Statewide IN"
+34.15254553,-89.61983172,34.152667,-89.619743,0.98,nearest_street,74,"Stephens St",,,"Water Valley",MS,"Yalobusha County",38965,US,"TIGER/Line® dataset from the US Census Bureau"
+55.852472,-4.309626,0,0,0,,,,,,,,,,,
+40.74319053,-73.85499498,40.743117,-73.855031,1,rooftop,52-2,"108th St",,,Brooklyn,NY,"Queens County",11236,US,"City of New York"
+53.9747249,-1.0778778,0,0,0,,,,,,,,,,,
+38.96259874,-92.33203214,38.962599,-92.333131,0.99,rooftop,1104,"N Providence Rd",,,Columbia,MO,"Boone County",65203,US,Boone
+29.1877,-82.1306,29.18769,-82.130753,1,rooftop,719,"E Silver Springs Blvd",,,Ocala,FL,"Marion County",34470,US,Marion
+39.9527,-75.1651,39.952572,-75.165291,1,rooftop,1500S,"Market St",,,Philadelphia,PA,"Philadelphia County",19102,US,Philadelphia
+41.63283,2.71383,0,0,0,,,,,,,,,,,
+40.74593584,-73.84350331,40.744321,-73.844255,0.97,rooftop,56-9,"Grand Central Pkwy",,,Corona,NY,"Queens County",11368,US,"City of New York"
+53.34412689,-6.26177709,0,0,0,,,,,,,,,,,
+-26.7588,152.85135,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+31.99060744,-110.63901436,31.997116,-110.636302,0.9,nearest_street,,I-10,,,Vail,AZ,"Pima County",85641,US,"TIGER/Line® dataset from the US Census Bureau"
+50.7422779,-3.4664453,0,0,0,,,,,,,,,,,
+20.6857746,-103.4336937,20.68547,-103.433525,0.99,rooftop,200,"G Leroux",,,Zapopan,JAL,,45029,MX,"Statewide JAL"
+50.5495038,-4.1436824,0,0,0,,,,,,,,,,,
+32.29888889,-90.18472222,32.298466,-90.185017,0.99,rooftop,269,"E Pearl St",,,Jackson,MS,"Hinds County",39201,US,Hinds
+-36.75751,144.28143,0,0,0,,,,,,,,,,,
+9.16000295,123.24384027,0,0,0,,,,,,,,,,,
+-26.20749813,28.11295688,0,0,0,,,,,,,,,,,
+41.08108108,-112.03587781,41.080835,-112.036197,0.99,rooftop,548,"W 2300 S",,,Syracuse,UT,"Davis County",84075,US,"Utah AGRC (and individual UT counties)"
+30.38960307,-97.7529523,30.389354,-97.752122,0.99,rooftop,9400,"Arboretum Blvd",,,Austin,TX,"Travis County",78759,US,Capcog
+-25.0,135.0,0,0,0,,,,,,,,,,,
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+40.70839534,-74.01570799,40.708334,-74.015505,1,nearest_street,,"NY 9A",,,"New York",NY,"New York County",10006,US,"TIGER/Line® dataset from the US Census Bureau"
+33.12587257,-117.31099704,33.12622,-117.311097,0.99,rooftop,1,"Legoland Dr",,,Carlsbad,CA,"San Diego County",92008,US,Sandoval
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+-33.81227946,151.10596039,0,0,0,,,,,,,,,,,
+33.80344,-117.5054,33.803475,-117.505405,1,nearest_street,,I-15,,,Corona,CA,"Riverside County",92883,US,"TIGER/Line® dataset from the US Census Bureau"
+37.51502,127.01648,0,0,0,,,,,,,,,,,
+40.00489188,-85.93038075,40.005284,-85.930842,0.99,rooftop,12880,"E 146th St",,,Noblesville,IN,"Hamilton County",46060,US,Hamilton
+36.45083887,-5.08314633,0,0,0,,,,,,,,,,,
+-37.759756,144.981482,0,0,0,,,,,,,,,,,
+-41.13538696,174.84029055,0,0,0,,,,,,,,,,,
+14.6494,121.1063,0,0,0,,,,,,,,,,,
+38.8978043,-77.0365601,38.897675,-77.036547,1,rooftop,1600,"Pennsylvania Ave NW",,,Washington,DC,"District of Columbia",20500,US,"Statewide DC"
+-27.5,153.0,0,0,0,,,,,,,,,,,
+49.28224179,-123.11855311,49.282038,-123.118179,0.99,rooftop,753,"Seymour St",,,Vancouver,BC,,V6B,CA,Province
+39.08047485,-84.51783519,39.080487,-84.517807,1,rooftop,829,"Main St",,,Covington,KY,"Kenton County",41011,US,Kenton
+37.00748787,-121.5705372,37.007567,-121.570681,1,rooftop,7467,"Eigleberry St",,,Gilroy,CA,"Santa Clara County",95020,US,"Santa Clara"
+33.80344,-117.5054,33.803475,-117.505405,1,nearest_street,,I-15,,,Corona,CA,"Riverside County",92883,US,"TIGER/Line® dataset from the US Census Bureau"
+38.9015,-121.0754,38.901495,-121.075441,1,nearest_street,,"CA 49",,,Auburn,CA,"Placer County",95603,US,"TIGER/Line® dataset from the US Census Bureau"
+-35.2964,149.025,0,0,0,,,,,,,,,,,
+45.6677507,-73.47935661,45.66937,-73.491993,0.84,nearest_street,5,"52E Ave",,,Pointe-Aux-Trembles,QC,,H1A,CA,"CanVec+ by Natural Resources Canada"
+51.50538967,-0.12485951,0,0,0,,,,,,,,,,,
+7.89956408,98.34996854,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+1.28046887,103.87115146,0,0,0,,,,,,,,,,,
+40.762374,-73.973912,40.762427,-73.974132,1,rooftop,721,"5th Ave",,,"New York",NY,"New York County",10022,US,"City of New York"
+40.0456,-86.0113,40.045295,-86.01136,0.99,rooftop,1045,"Conner St",,,Noblesville,IN,"Hamilton County",46060,US,Hamilton
+52.95088889,0.50506944,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+42.86344,-112.45164,42.863437,-112.451644,1,rooftop,234,"N Main St",,,Pocatello,ID,"Bannock County",83204,US,Bannock
+31.99060744,-110.63901436,31.997116,-110.636302,0.9,nearest_street,,I-10,,,Vail,AZ,"Pima County",85641,US,"TIGER/Line® dataset from the US Census Bureau"
+-33.793396,151.11146907,0,0,0,,,,,,,,,,,
+41.86305712,-87.60858536,41.862337,-87.609546,0.98,rooftop,1500,"S Lynn White Dr",,,Chicago,IL,"Cook County",60605,US,Cook
+44.68187789,-76.41107175,44.681889,-76.411253,1,rooftop,55,"Rebecca Ln",,,Westport,ON,,K0G,CA,"Leeds Grenville"
+29.948479,-90.070864,29.948389,-90.070726,1,rooftop,550,"St Charles Ave",,,"New Orleans",LA,"Orleans Parish",70130,US,"City of New Orleans"
+28.53861577,77.27617188,0,0,0,,,,,,,,,,,
+6.0988095,100.3012459,0,0,0,,,,,,,,,,,
+45.63697547,-73.56726563,45.635688,-73.56765,0.98,rooftop,9055,"Boul Henri-Bourassa E",,,Rivière-Des-Prairies,QC,,H1E,CA,"Service Des Infrastructures Du Réseau Routier - Division de la géomatique"
+-37.79740237,144.8915224,0,0,0,,,,,,,,,,,
+35.1426,-90.0524,35.142618,-90.052574,1,rooftop,85,"S 2nd St",,,Memphis,TN,"Shelby County",38103,US,"City of Memphis"
+36.18077897,-115.31743179,36.181168,-115.317155,0.99,rooftop,657,"N Town Center Dr",,,"Las Vegas",NV,"Clark County",89144,US,"Las Vegas"
+-3.37295569,36.90724969,0,0,0,,,,,,,,,,,
+-33.01134,151.59349,0,0,0,,,,,,,,,,,
+-33.97886843,151.01756494,0,0,0,,,,,,,,,,,
+24.82603097,77.68126008,0,0,0,,,,,,,,,,,
+40.01563,-82.86679,40.015604,-82.867115,1,rooftop,149,"S Hamilton Rd",,,Gahanna,OH,"Franklin County",43230,US,Franklin
+42.32806429,-82.97175882,42.328206,-82.971877,1,rooftop,5370,"Wyandotte St E",,,Windsor,ON,,N8S,CA,"City of Windsor"
+20.65504901,-100.3376408,20.65503,-100.338972,0.98,rooftop,3,Puma,,,"El Pozo",QUE,,76269,MX,"Statewide QUE"
+39.7193642,-85.885582,39.719362,-85.885574,1,rooftop,15,"S Bittner Rd",,,"New Palestine",IN,"Hancock County",46163,US,"Statewide IN"
+38.8951,-77.0367,38.895405,-77.038821,0.97,rooftop,1699,"E St NW",,,Washington,DC,"District of Columbia",20006,US,"Statewide DC"
+-28.04353333,153.4348875,0,0,0,,,,,,,,,,,
+38.9233427,-76.97201838,38.923193,-76.971964,1,rooftop,2515,"24th St NE",,,Washington,DC,"District of Columbia",20018,US,"Statewide DC"
+37.87366139,-122.25419909,37.873883,-122.254483,0.99,rooftop,2594,"Hearst Ave",,,Oakland,CA,"Alameda County",94602,US,Berkeley
+39.78197047,-75.69231988,39.781828,-75.69221,1,rooftop,518,"Defoe Rd",,,Hockessin,DE,"New Castle County",19707,US,"New Castle"
+38.8951,-77.0367,38.895405,-77.038821,0.97,rooftop,1699,"E St NW",,,Washington,DC,"District of Columbia",20006,US,"Statewide DC"
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+34.15275686,-89.61978224,34.152667,-89.619743,0.98,nearest_street,80,"Stephens St",,,"Water Valley",MS,"Yalobusha County",38965,US,"TIGER/Line® dataset from the US Census Bureau"
+51.50538967,-0.12485951,0,0,0,,,,,,,,,,,
+29.75718715,-95.35575986,29.757222,-95.355325,0.99,rooftop,1701,"Prairie St",,,Houston,TX,"Harris County",77002,US,"Greater Houston"
+-33.70626549,150.95859154,0,0,0,,,,,,,,,,,
+51.50538967,-0.12485951,0,0,0,,,,,,,,,,,
+53.93130493,-9.02353604,0,0,0,,,,,,,,,,,
+-32.9292223,151.7801746,0,0,0,,,,,,,,,,,
+41.08108108,-112.03587781,41.080835,-112.036197,0.99,rooftop,548,"W 2300 S",,,Syracuse,UT,"Davis County",84075,US,"Utah AGRC (and individual UT counties)"
+42.28097534,-83.74721802,42.281123,-83.747105,1,rooftop,200,"E Huron St",,,"Ann Arbor",MI,"Washtenaw County",48104,US,Semcog
+37.55767822,-77.47767479,37.557641,-77.477668,1,rooftop,3102,"Hanover Ave",,,Richmond,VA,"Richmond City",23221,US,"City of Richmond"
+18.5203,73.8567,0,0,0,,,,,,,,,,,
+-33.8783141,151.05774422,0,0,0,,,,,,,,,,,
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+12.5,-69.96666667,0,0,0,,,,,,,,,,,
+55.85195923,-4.2519098,0,0,0,,,,,,,,,,,
+40.680801,-73.694702,40.681456,-73.694802,0.99,rooftop,1367,"Carole Ct",,,"Valley Stream",NY,"Nassau County",11580,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+41.63283,2.71497,0,0,0,,,,,,,,,,,
+39.98593916,-82.79191732,39.985759,-82.791769,1,rooftop,7900,"E Broad St",,,Blacklick,OH,"Franklin County",43004,US,"City of Columbus"
+51.562662,-0.17988195,0,0,0,,,,,,,,,,,
+42.23171,-88.30548,42.231617,-88.305034,0.99,rooftop,415,"Congress Pkwy",,,"Crystal Lake",IL,"McHenry County",60014,US,Mchenry
+39.5919086,-84.198319,39.591849,-84.198311,1,rooftop,10579,"Falls Creek Ln",,,Dayton,OH,"Montgomery County",45458,US,Montgomery
+15.046647,120.059258,0,0,0,,,,,,,,,,,
+50.735278,-1.838333,0,0,0,,,,,,,,,,,
+3.1581,101.5983,0,0,0,,,,,,,,,,,
+40.680801,-73.694702,40.681456,-73.694802,0.99,rooftop,1367,"Carole Ct",,,"Valley Stream",NY,"Nassau County",11580,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+51.4203,-0.0705,0,0,0,,,,,,,,,,,
+4.939645,114.93983,0,0,0,,,,,,,,,,,
+30.33,-81.65,30.330034,-81.650113,1,rooftop,693,"N Washington St",,,Jacksonville,FL,"Duval County",32202,US,Statewide2
+33.601926,-117.868184,33.601681,-117.867689,0.99,rooftop,833,"Hibiscus Ct",,,"Corona Del Mar",CA,"Orange County",92625,US,Orange
+50.88955113,-1.36814035,0,0,0,,,,,,,,,,,
+54.5538811,-5.9811692,0,0,0,,,,,,,,,,,
+-33.8708,151.2382,0,0,0,,,,,,,,,,,
+43.7861357,-79.30350918,43.786287,-79.304276,0.99,rooftop,1,"Groomsport Cres",,,Scarborough,ON,,M1T,CA,"City of Toronto"
+14.44416808,121.00288391,0,0,0,,,,,,,,,,,
+-26.02124,28.03118,0,0,0,,,,,,,,,,,
+52.4035054,16.90749457,0,0,0,,,,,,,,,,,
+14.62533865,121.12045414,0,0,0,,,,,,,,,,,
+52.39170171,-0.53782683,0,0,0,,,,,,,,,,,
+55.15010829,-1.52671196,0,0,0,,,,,,,,,,,
+25.67243407,-80.4064169,25.672491,-80.406512,1,rooftop,10255,"SW 130th Ct",,,Miami,FL,"Miami-Dade County",33186,US,Miami
+53.3476,-6.2591,0,0,0,,,,,,,,,,,
+41.3854908,-75.7080613,41.38561,-75.708138,1,rooftop,217,"N Main St",,,Taylor,PA,"Lackawanna County",18517,US,Lackawanna
+52.7092967,-8.50834519,0,0,0,,,,,,,,,,,
+40.7805,-111.94401,40.780503,-111.944007,1,rooftop,1860,"W 500 N",,,"Salt Lake City",UT,"Salt Lake County",84116,US,"Utah AGRC (and individual UT counties)"
+40.680801,-73.694702,40.681456,-73.694802,0.99,rooftop,1367,"Carole Ct",,,"Valley Stream",NY,"Nassau County",11580,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+-27.5333,153.267,0,0,0,,,,,,,,,,,
+54.0824089,-0.1869538,0,0,0,,,,,,,,,,,
+41.07955,-81.525181,41.080117,-81.52577,0.99,rooftop,300,"Locust St",,,Akron,OH,"Summit County",44302,US,Summit
+1.29450273,103.85999898,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+-6.79687834,39.1071434,0,0,0,,,,,,,,,,,
+-37.8156,144.9661,0,0,0,,,,,,,,,,,
+35.44079187,-80.86395912,35.440688,-80.863992,1,rooftop,16500,"Holly Crest Ln",,,Huntersville,NC,"Mecklenburg County",28078,US,Mecklenburg
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+-6.56624232,106.84488345,0,0,0,,,,,,,,,,,
+47.61036265,-122.34835279,47.610766,-122.348429,0.99,rooftop,2203,"Alaskan Way",,,Seattle,WA,"King County",98121,US,King
+40.68714,-73.71784,40.687571,-73.717472,0.99,rooftop,1975,"Linden Blvd",,,Elmont,NY,"Nassau County",11003,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.84631,-73.27496,40.846311,-73.274962,1,rooftop,12,"Dolly Dr",,,Commack,NY,"Suffolk County",11725,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+13.02844331,80.18956175,0,0,0,,,,,,,,,,,
+12.9366966,100.9309878,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+44.8424032,-79.90477388,44.842437,-79.904945,1,rooftop,1471,"Champlain Rd",,,Tiny,ON,,L9M,CA,Simcoe
+52.46338345,-1.6032958,0,0,0,,,,,,,,,,,
+32.811,-96.8381,32.811035,-96.837839,1,rooftop,5201,"Harry Hines Blvd",,,Dallas,TX,"Dallas County",75235,US,Dallas
+-27.41905227,153.05379503,0,0,0,,,,,,,,,,,
+38.8881511,-77.01986578,38.888194,-77.019828,1,rooftop,655,"Jefferson Dr SW",,,Washington,DC,"District of Columbia",20004,US,"Statewide DC"
+-27.84702534,153.33908537,0,0,0,,,,,,,,,,,
+40.680801,-73.694702,40.681456,-73.694802,0.99,rooftop,1367,"Carole Ct",,,"Valley Stream",NY,"Nassau County",11580,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.705283,-73.904543,40.70516,-73.904264,1,rooftop,1927,"Woodbine St",,,Ridgewood,NY,"Queens County",11385,US,"City of New York"
+42.08120711,-83.24310863,42.080963,-83.243726,0.99,nearest_street,,I-75,,,Rockwood,MI,"Wayne County",48173,US,"TIGER/Line® dataset from the US Census Bureau"
+31.464,74.259,0,0,0,,,,,,,,,,,
+55.9047028,-3.20346286,0,0,0,,,,,,,,,,,
+33.603589,-117.861931,33.603525,-117.86197,1,rooftop,35,"Whitewater Dr",,,"Corona Del Mar",CA,"Orange County",92625,US,"City of Newport Beach"
+3.81321507,103.35799146,0,0,0,,,,,,,,,,,
+29.9401216,-90.0825088,29.94009,-90.082598,1,rooftop,2121,"St Andrew St",,,"New Orleans",LA,"Orleans Parish",70113,US,"Orleans Parish"
+14.62141722,121.08931209,0,0,0,,,,,,,,,,,
+3.43655063,101.56545913,0,0,0,,,,,,,,,,,
+44.0,-71.5,43.965312,-71.513798,0.11,nearest_street,98,"W Branch Rd",,,"Waterville Valley",NH,"Grafton County",03215,US,"TIGER/Line® dataset from the US Census Bureau"
+32.41984539,-93.81009122,32.419152,-93.812644,0.96,rooftop,3037,"Meriwether Rd",,,Shreveport,LA,"Caddo Parish",71108,US,Caddo
+14.98545693,120.6225872,0,0,0,,,,,,,,,,,
+41.63163,2.71255,0,0,0,,,,,,,,,,,
+3.07187264,101.60716303,0,0,0,,,,,,,,,,,
+51.91261897,-0.20820415,0,0,0,,,,,,,,,,,
+42.860483,-85.72238,42.860489,-85.722372,1,rooftop,2355,"Health Dr SW",,,Wyoming,MI,"Kent County",49519,US,Kent
+52.6333,-1.13333,0,0,0,,,,,,,,,,,
+40.74635,-73.845093,40.745769,-73.847014,0.97,rooftop,126,"Meridian Rd",,,Corona,NY,"Queens County",11368,US,"City of New York"
+45.4,-63.7667,45.400879,-63.768383,0.97,rooftop,300,"Birch Hill Rd",,,"Bass River",NS,,B0M,CA,Province
+29.3503094,-98.1278915,29.350537,-98.127209,0.99,rooftop,109,"Micah Pt Rd",,,"La Vernia",TX,"Wilson County",78121,US,"Statewide TX"
+-27.4699,153.0284,0,0,0,,,,,,,,,,,
+41.63227,2.71415,0,0,0,,,,,,,,,,,
+-33.8925,151.278611,0,0,0,,,,,,,,,,,
+37.08108108,-121.59823077,37.081791,-121.59851,0.99,rooftop,13021,"Murphy Ave",,,"San Martin",CA,"Santa Clara County",95046,US,"Santa Clara"
+53.46350766,-2.28936816,0,0,0,,,,,,,,,,,
+-6.29789084,106.92192249,0,0,0,,,,,,,,,,,
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+42.28088379,-83.74718785,42.280825,-83.747091,1,rooftop,115,"S 4th Ave",,,"Ann Arbor",MI,"Washtenaw County",48104,US,Washtenaw
+41.0781,-81.52052,41.078227,-81.520755,1,rooftop,271,"S Main St",,,Akron,OH,"Summit County",44308,US,Summit
+43.6587,-70.2663,43.658875,-70.266316,1,rooftop,111,"Forest Ave",,,Portland,ME,"Cumberland County",04101,US,"Maine Office of GIS"
+13.09639606,-59.61050335,0,0,0,,,,,,,,,,,
+41.98445,-87.66038,41.984445,-87.660378,1,rooftop,5624,"N Broadway St",,,Chicago,IL,"Cook County",60660,US,Cook
+51.47333522,-0.49165495,0,0,0,,,,,,,,,,,
+50.37973537,-4.14238416,0,0,0,,,,,,,,,,,
+33.98264049,-118.23830705,33.982904,-118.238336,1,rooftop,6200,"Wilmington Ave",,,"Los Angeles",CA,"Los Angeles County",90001,US,"Los Angeles"
+29.948479,-90.070864,29.948389,-90.070726,1,rooftop,550,"St Charles Ave",,,"New Orleans",LA,"Orleans Parish",70130,US,"City of New Orleans"
+36.1029,-80.25877,36.102959,-80.258688,1,rooftop,387,"W End Blvd",,,"Winston Salem",NC,"Forsyth County",27101,US,Forsyth
+29.8179128,-95.4197286,29.817887,-95.419792,1,rooftop,1130,"W 34th St",,,Houston,TX,"Harris County",77018,US,"Greater Houston"
+53.5141,-6.54118,0,0,0,,,,,,,,,,,
+-41.2889,174.777,0,0,0,,,,,,,,,,,
+-26.20749813,28.11295688,0,0,0,,,,,,,,,,,
+-37.809,144.874,0,0,0,,,,,,,,,,,
+45.5064511,-122.7756216,45.50646,-122.77537,1,rooftop,1850,"SW 96th Ave",,,Portland,OR,"Washington County",97225,US,Wallowa
+35.91162,-79.06072,35.911546,-79.060714,1,rooftop,312,"W Franklin St",,,"Chapel Hill",NC,"Orange County",27516,US,Orange
+32.2222,-110.97004,32.222208,-110.970043,1,rooftop,63,"E Congress St",,,Tucson,AZ,"Pima County",85701,US,Pima
+51.5447969,0.04968474,0,0,0,,,,,,,,,,,
+32.9866,-83.6487,32.982129,-83.649784,0.89,nearest_street,186,"Gregory Dr",,,Gray,GA,"Jones County",31032,US,"TIGER/Line® dataset from the US Census Bureau"
+51.05536557,-4.18094834,0,0,0,,,,,,,,,,,
+51.73426962,0.72920864,0,0,0,,,,,,,,,,,
+55.858,-4.259,0,0,0,,,,,,,,,,,
+43.648,-79.3872,43.647904,-79.387524,1,rooftop,150,"Pearl St",,,Toronto,ON,,M5V,CA,"City of Toronto"
+32.443587,-85.024696,32.443478,-85.0246,1,rooftop,5,"Richmond Park Dr",,,"Phenix City",AL,"Russell County",36869,US,"Russell County"
+-33.73168,151.00524,0,0,0,,,,,,,,,,,
+-27.54767912,153.03283453,0,0,0,,,,,,,,,,,
+51.5141,-0.1094,0,0,0,,,,,,,,,,,
+51.57730006,-3.01898745,0,0,0,,,,,,,,,,,
+-32.90044407,151.67289321,0,0,0,,,,,,,,,,,
+-33.8945115,151.2631217,0,0,0,,,,,,,,,,,
+54.5539027,-5.9811487,0,0,0,,,,,,,,,,,
+52.381905,13.1199934,0,0,0,,,,,,,,,,,
+30.5214,-97.8279,30.521574,-97.828368,0.99,rooftop,180,"E Whitestone Blvd",,,"Cedar Park",TX,"Williamson County",78613,US,Capcog
+41.63473,2.71192,0,0,0,,,,,,,,,,,
+30.3295616,-97.7203748,30.32964,-97.720333,1,rooftop,603,"Hammack Dr",,,Austin,TX,"Travis County",78752,US,Capcog
+33.10299683,-111.49260071,33.103013,-111.492534,1,rooftop,6844,"E Pine Way",,,Florence,AZ,"Pinal County",85132,US,Pinal
+36.1675,-115.149,36.167372,-115.149542,0.99,rooftop,432,"S Main St",,,"Las Vegas",NV,"Clark County",89101,US,"Las Vegas"
+40.75495,-73.9637,40.754944,-73.963688,1,rooftop,429,"E 52nd St",,,"New York",NY,"New York County",10022,US,"City of New York"
+-37.65205,145.52134,0,0,0,,,,,,,,,,,
+30.3295627,-97.7203887,30.32964,-97.720333,1,rooftop,603,"Hammack Dr",,,Austin,TX,"Travis County",78752,US,Capcog
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+10.6568,-61.5224,0,0,0,,,,,,,,,,,
+42.2356087,-83.6335252,42.235594,-83.63344,1,rooftop,255,"S Mans Field St",,,Ypsilanti,MI,"Washtenaw County",48197,US,Semcog
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+36.47774558,-121.72903408,36.477798,-121.728949,1,rooftop,27,"E Carmel Valley Rd",,,"Carmel Valley",CA,"Monterey County",93924,US,Monterey
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+38.173017,-85.711965,38.173019,-85.71185,1,rooftop,5114,"Preston Hwy",,,Louisville,KY,"Jefferson County",40213,US,"Metro Louisville,  LOJIC partners"
+41.6345,2.7132,0,0,0,,,,,,,,,,,
+38.9394369,-77.0253241,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+33.508174,-86.807671,33.50808,-86.807887,1,rooftop,1625,"2nd Ave S",,,Birmingham,AL,"Jefferson County",35233,US,Jefferson
+38.65854,26.36268,0,0,0,,,,,,,,,,,
+34.01277359,-118.28408718,34.012852,-118.282543,0.98,rooftop,3940,"S Figueroa St",,,"Los Angeles",CA,"Los Angeles County",90037,US,"Los Angeles"
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+41.63128,2.7117,0,0,0,,,,,,,,,,,
+33.10299683,-111.49260071,33.103013,-111.492534,1,rooftop,6844,"E Pine Way",,,Florence,AZ,"Pinal County",85132,US,Pinal
+33.81249245,-117.50696576,33.812266,-117.507646,0.99,rooftop,2780,"Cabot Dr",,,Corona,CA,"Riverside County",92883,US,Riverside
+40.7207,-89.6094,40.720741,-89.609408,1,rooftop,1021,"W Hanssler Pl",,,Peoria,IL,"Peoria County",61604,US,Peoria
+40.71455,-74.00714,40.714647,-74.007078,1,rooftop,85,"Chambers St",,,"New York",NY,"New York County",10007,US,"City of New York"
+29.8179128,-95.4197286,29.817887,-95.419792,1,rooftop,1130,"W 34th St",,,Houston,TX,"Harris County",77018,US,"Greater Houston"
+38.9394369,-77.0253241,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+32.60583231,-110.84106445,32.611776,-110.841864,0.87,nearest_street,4766,"State Rte 77",,,Oracle,AZ,"Pinal County",85623,US,"TIGER/Line® dataset from the US Census Bureau"
+41.3854908,-75.7080613,41.38561,-75.708138,1,rooftop,217,"N Main St",,,Taylor,PA,"Lackawanna County",18517,US,Lackawanna
+51.67681056,-3.82856609,0,0,0,,,,,,,,,,,
+37.00748198,-121.57053318,37.007567,-121.570681,1,rooftop,7467,"Eigleberry St",,,Gilroy,CA,"Santa Clara County",95020,US,"Santa Clara"
+13.5,144.8,13.5,144.8,0.32,nearest_place,,,,,Tamuning,GU,Guam,96911,US,"TIGER/Line® dataset from the US Census Bureau"
+40.74319053,-73.85499498,40.743117,-73.855031,1,rooftop,52-2,"108th St",,,Brooklyn,NY,"Queens County",11236,US,"City of New York"
+42.2373,-71.5314,42.237793,-71.524138,0.88,nearest_street,47,"Cedar St",,,Hopkinton,MA,"Middlesex County",01748,US,"TIGER/Line® dataset from the US Census Bureau"
+34.01043,-118.33666,34.011177,-118.33649,0.99,rooftop,3650,"W Martin Luther King Jr Blvd",,,"Los Angeles",CA,"Los Angeles County",90008,US,"Los Angeles"
+25.305393,49.610083,0,0,0,,,,,,,,,,,
+32.77616,-117.01661,32.776167,-117.016624,1,rooftop,5336,"Jackson Dr",,,"LA Mesa",CA,"San Diego County",91942,US,"San Diego Geographic Information Source - JPA"
+-33.81776944,151.26156667,0,0,0,,,,,,,,,,,
+51.32029804,-0.55574105,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+33.8736667,-117.6871667,33.872957,-117.68821,0.98,nearest_street,,"CA 91",,,"Yorba Linda",CA,"Orange County",92887,US,"TIGER/Line® dataset from the US Census Bureau"
+44.8424032,-79.90477388,44.842437,-79.904945,1,rooftop,1471,"Champlain Rd",,,Tiny,ON,,L9M,CA,Simcoe
+18.570312,73.77515,0,0,0,,,,,,,,,,,
+53.34412689,-6.26177709,0,0,0,,,,,,,,,,,
+-37.71934,144.49785,0,0,0,,,,,,,,,,,
+3.16804444,101.69160556,0,0,0,,,,,,,,,,,
+-33.9,151.267,0,0,0,,,,,,,,,,,
+38.78319158,-77.01530201,38.783131,-77.015291,1,rooftop,172,"Fleet St",,,"Oxon Hill",MD,"Prince George's County",20745,US,"Prince Georges"
+35.3167,139.55,0,0,0,,,,,,,,,,,
+3.06592092,101.52642644,0,0,0,,,,,,,,,,,
+-32.75286844,151.0941835,0,0,0,,,,,,,,,,,
+27.71814,-82.43401,27.718109,-82.43416,1,rooftop,109,"S US Highway 41",,,Ruskin,FL,"Hillsborough County",33570,US,Statewide2
+29.68557,-82.30515,29.685573,-82.305149,1,rooftop,3575,"NE 15th St",,,Gainesville,FL,"Alachua County",32609,US,Alachua
+14.35715646,121.03394958,0,0,0,,,,,,,,,,,
+28.383099,-81.507086,28.383213,-81.507286,1,rooftop,12500,"State Road 535",,,Orlando,FL,"Orange County",32836,US,"Orange County"
+45.6677507,-73.47935661,45.66937,-73.491993,0.84,nearest_street,5,"52E Ave",,,Pointe-Aux-Trembles,QC,,H1A,CA,"CanVec+ by Natural Resources Canada"
+33.847067,-117.537354,33.846846,-117.536975,0.99,rooftop,1375,"E Ontario Ave",,,Corona,CA,"Riverside County",92881,US,Riverside
+-26.20749813,28.11295688,0,0,0,,,,,,,,,,,
+40.1981982,-74.96731779,40.198144,-74.967737,0.99,rooftop,1211,"Old Jordan Rd",,,Southampton,PA,"Bucks County",18966,US,Bucks
+-26.6843,153.0552,0,0,0,,,,,,,,,,,
+4.9074677,114.9172348,0,0,0,,,,,,,,,,,
+51.50538967,-0.12485951,0,0,0,,,,,,,,,,,
+39.47583132,2.72420168,0,0,0,,,,,,,,,,,
+20.6479,-105.2198,20.647943,-105.219662,1,rooftop,1642,"Francisco Villa",,,"Puerto Vallarta",JAL,,48318,MX,"Statewide JAL"
+-28.0183,153.3921,0,0,0,,,,,,,,,,,
+15.7281937,100.12693019,0,0,0,,,,,,,,,,,
+45.51181,-122.62605,45.510213,-122.625739,0.93,nearest_street,1745,"SE 37th Ave",,,Portland,OR,"Multnomah County",97214,US,"TIGER/Line® dataset from the US Census Bureau"
+-37.7346,145.158,0,0,0,,,,,,,,,,,
+14.555485,121.00280389,0,0,0,,,,,,,,,,,
+5.4,100.239,0,0,0,,,,,,,,,,,
+-27.94106252,153.31388129,0,0,0,,,,,,,,,,,
+-26.4138,153.04217,0,0,0,,,,,,,,,,,
+45.7952,24.1506,0,0,0,,,,,,,,,,,
+47.57050358,-122.38679409,47.570434,-122.387151,1,rooftop,3727,"California Ave SW",,,Seattle,WA,"King County",98116,US,King
+32.7155,-117.1585,32.715487,-117.158674,1,rooftop,945,"6th Ave",,,"San Diego",CA,"San Diego County",92101,US,"City of San Diego"
+38.9394413,-77.0253223,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+40.1981982,-74.96731779,40.198144,-74.967737,0.99,rooftop,1211,"Old Jordan Rd",,,Southampton,PA,"Bucks County",18966,US,Bucks
+-29.673946,31.018535,0,0,0,,,,,,,,,,,
+-27.36543267,153.0301084,0,0,0,,,,,,,,,,,
+32.79279279,-116.92151637,32.792552,-116.921721,0.99,rooftop,1627,"E Lexington Ave",,,"El Cajon",CA,"San Diego County",92019,US,Sandoval
+21.32189997,39.94367123,0,0,0,,,,,,,,,,,
+44.4111,8.9328,0,0,0,,,,,,,,,,,
+45.35712119,-65.52308558,45.358916,-65.525621,0.96,rooftop,82,"Chemin Big Salmon Riv",,,"Bay View",NB,,E5R,CA,Province
+21.3086,-157.8615,21.308893,-157.861367,0.99,rooftop,1000,"Bishop St",,,Honolulu,HI,"Honolulu County",96813,US,Honolulu
+29.74489,-95.39294,29.744887,-95.39294,1,rooftop,1100,"Westheimer Rd",,,Houston,TX,"Harris County",77006,US,"City of Houston"
+-6.5897,106.7908,0,0,0,,,,,,,,,,,
+11.55,104.917,0,0,0,,,,,,,,,,,
+-37.8156,144.9661,0,0,0,,,,,,,,,,,
+33.374181,-111.840334,33.374083,-111.840734,0.99,rooftop,1363,"N Arizona Ave",,,Gilbert,AZ,"Maricopa County",85233,US,"City of Gilbert"
+43.71171171,-79.29338808,43.711733,-79.293328,1,rooftop,2,"Stellarton Rd",,,Scarborough,ON,,M1L,CA,"City of Toronto"
+14.580919,121.064468,0,0,0,,,,,,,,,,,
+14.5127,121.0562,0,0,0,,,,,,,,,,,
+33.77344,-117.48751,33.773435,-117.487512,1,rooftop,23800,"Temescal Canyon Rd",,,Corona,CA,"Riverside County",92883,US,Riverside
+-27.4699,153.0284,0,0,0,,,,,,,,,,,
+37.4391713,-122.1394165,37.439088,-122.139482,1,rooftop,1925,"Byron St",,,"Palo Alto",CA,"Santa Clara County",94301,US,"City of Palo Alto"
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+-33.7818,151.1012,0,0,0,,,,,,,,,,,
+-37.85006,145.09395,0,0,0,,,,,,,,,,,
+-38.2209,145.0396,0,0,0,,,,,,,,,,,
+40.82882883,-73.84217097,40.828944,-73.842267,1,nearest_street,,I-295,,,Bronx,NY,"Bronx County",10462,US,"TIGER/Line® dataset from the US Census Bureau"
+34.10202,-118.34094,34.101704,-118.340802,0.99,rooftop,6915,"Hollywood Blvd",,,"Los Angeles",CA,"Los Angeles County",90028,US,"Los Angeles"
+33.843014,-117.551455,33.842936,-117.551258,1,rooftop,2768,"Gilbert Ave",,,Corona,CA,"Riverside County",92881,US,Riverside
+-37.782276,144.91196999,0,0,0,,,,,,,,,,,
+33.843014,-117.551455,33.842936,-117.551258,1,rooftop,2768,"Gilbert Ave",,,Corona,CA,"Riverside County",92881,US,Riverside
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+29.09417331,77.25757062,0,0,0,,,,,,,,,,,
+14.58733674,121.04362726,0,0,0,,,,,,,,,,,
+-33.6833,150.867,0,0,0,,,,,,,,,,,
+-33.8215,151.2136,0,0,0,,,,,,,,,,,
+38.9394549,-77.0252904,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+-27.8503594,153.3015589,0,0,0,,,,,,,,,,,
+33.8736667,-117.6871667,33.872957,-117.68821,0.98,nearest_street,,"CA 91",,,"Yorba Linda",CA,"Orange County",92887,US,"TIGER/Line® dataset from the US Census Bureau"
+37.00748787,-121.5705372,37.007567,-121.570681,1,rooftop,7467,"Eigleberry St",,,Gilroy,CA,"Santa Clara County",95020,US,"Santa Clara"
+-33.9246,151.228,0,0,0,,,,,,,,,,,
+28.38306408,-81.50715459,28.383213,-81.507286,1,rooftop,12500,"State Road 535",,,Orlando,FL,"Orange County",32836,US,"Orange County"
+-37.81659295,144.96730316,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+33.55822,-84.37091,33.55816,-84.370894,1,nearest_street,,"US 41",,,Riverdale,GA,"Clayton County",30274,US,"TIGER/Line® dataset from the US Census Bureau"
+38.94172668,-77.0539856,38.941912,-77.053938,1,rooftop,2610,"Tilden Pl NW",,,Washington,DC,"District of Columbia",20008,US,"Statewide DC"
+53.79081772,-1.75516688,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+-8.69959453,115.17136466,0,0,0,,,,,,,,,,,
+38.1419,-94.8122,38.141644,-94.812155,1,rooftop,418,"Chestnut St",,,"Mound City",KS,"Linn County",66056,US,"Statewide KS"
+29.95997732,-95.71079314,29.960221,-95.710714,1,rooftop,16858,"House Hahl Rd",,,Cypress,TX,"Harris County",77433,US,"City of Houston"
+53.5263673,-6.3788573,0,0,0,,,,,,,,,,,
+50.37973537,-4.14238416,0,0,0,,,,,,,,,,,
+51.51205442,-0.60793877,0,0,0,,,,,,,,,,,
+3.08333,101.533,0,0,0,,,,,,,,,,,
+53.81738281,-0.40858854,0,0,0,,,,,,,,,,,
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+29.9549289,-95.3982738,29.955007,-95.398149,1,rooftop,17770,"Imperial Valley Dr",,,Houston,TX,"Harris County",77060,US,"Greater Houston"
+2.1991,102.253,0,0,0,,,,,,,,,,,
+28.3922,77.3208,0,0,0,,,,,,,,,,,
+3.05900406,101.47168087,0,0,0,,,,,,,,,,,
+28.5421,-81.3775,28.542092,-81.37745,1,rooftop,7,"S Magnolia Ave",,,Orlando,FL,"Orange County",32801,US,Statewide2
+51.5141,-0.1094,0,0,0,,,,,,,,,,,
+53.8152954,-1.5634505,0,0,0,,,,,,,,,,,
+42.1497,-74.9384,42.155981,-74.941105,0.86,nearest_street,459,"Reed Rd",,,Hamden,NY,"Delaware County",13782,US,"TIGER/Line® dataset from the US Census Bureau"
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+35.7449,-86.7489,35.742567,-86.750209,0.96,rooftop,6844,"Choctaw Rd",,,"College Grove",TN,"Williamson County",37046,US,Williamson
+35.88317301,14.44749561,0,0,0,,,,,,,,,,,
+41.90120468,12.49827958,0,0,0,,,,,,,,,,,
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+13.02843359,80.18961999,0,0,0,,,,,,,,,,,
+51.5141,-0.1094,0,0,0,,,,,,,,,,,
+43.679235,-79.304417,43.679205,-79.304336,1,rooftop,59,"Glenmount Park Rd",,,Toronto,ON,,M4E,CA,"City of Toronto"
+36.47774558,-121.72903408,36.477798,-121.728949,1,rooftop,27,"E Carmel Valley Rd",,,"Carmel Valley",CA,"Monterey County",93924,US,Monterey
+26.360415,50.184329,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+13.73734283,100.59180362,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+25.456869,49.552948,0,0,0,,,,,,,,,,,
+51.562662,-0.17988195,0,0,0,,,,,,,,,,,
+38.939457,-77.0253169,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+38.9394483,-77.0253198,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+12.959089,77.71963,0,0,0,,,,,,,,,,,
+45.58218,-122.68618,45.58218,-122.686189,1,rooftop,2017,"N Kilpatrick St",,,Portland,OR,"Multnomah County",97217,US,"Portland Metro"
+33.633537,-117.876686,33.633599,-117.875492,0.98,rooftop,2227,"Aralia St",,,"Newport Beach",CA,"Orange County",92660,US,Orange
+41.3854908,-75.7080613,41.38561,-75.708138,1,rooftop,217,"N Main St",,,Taylor,PA,"Lackawanna County",18517,US,Lackawanna
+52.3769,4.8982,0,0,0,,,,,,,,,,,
+29.91860455,78.14196833,0,0,0,,,,,,,,,,,
+3.12015843,101.6064765,0,0,0,,,,,,,,,,,
+-17.9083,30.9728,0,0,0,,,,,,,,,,,
+44.65731812,-63.60334797,44.657162,-63.603654,1,rooftop,3000,"Monaghan Dr",,,Halifax,NS,,B3K,CA,Halifax
+38.6447,-75.6161,38.644634,-75.616141,1,rooftop,120,"4th St",,,Seaford,DE,"Sussex County",19973,US,Sussex
+54.5538701,-5.9811718,0,0,0,,,,,,,,,,,
+1.45649121,103.91730364,0,0,0,,,,,,,,,,,
+19.40685419,72.83767787,0,0,0,,,,,,,,,,,
+33.67605066,-111.97422266,33.676493,-111.973393,0.99,rooftop,21001,"N Tatum Blvd",,,Phoenix,AZ,"Maricopa County",85050,US,Maricopa
+37.5574646,-77.47771432,37.557327,-77.47783,1,rooftop,3103,"Hanover Ave",,,Richmond,VA,"Richmond City",23221,US,"City of Richmond"
+27.1899509,78.001152,0,0,0,,,,,,,,,,,
+13.02857208,80.18946014,0,0,0,,,,,,,,,,,
+40.8967,-0.888394,0,0,0,,,,,,,,,,,
+53.43333333,-2.3,0,0,0,,,,,,,,,,,
+37.65057635,-122.42686413,37.650962,-122.427395,0.99,rooftop,210,"W Orange Ave",,,"South San Francisco",CA,"San Mateo County",94080,US,"San Mateo"
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+-6.1803,106.8233,0,0,0,,,,,,,,,,,
+38.9394392,-77.0253361,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+14.5896,120.9808,0,0,0,,,,,,,,,,,
+43.7742911,-79.7164011,43.774235,-79.716361,1,rooftop,12,"Pecan Dr",,,Brampton,ON,,L6P,CA,"City of Brampton"
+37.8044,-122.271,37.804395,-122.270653,1,rooftop,436,"14th St",,,Oakland,CA,"Alameda County",94612,US,Alameda
+38.9394413,-77.0253223,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+21.501826,39.250179,0,0,0,,,,,,,,,,,
+31.19547045,121.43251179,0,0,0,,,,,,,,,,,
+42.34856338,-83.266657,42.348494,-83.266735,1,rooftop,7751,"Grayfield St",,,"Dearborn Heights",MI,"Wayne County",48127,US,Wayne
+43.36454412,-73.18537611,43.36482,-73.185083,0.99,rooftop,4268,"VT Route 30",,,Pawlet,VT,"Rutland County",05761,US,"Statewide VT"
+33.70056451,-84.43334341,33.699504,-84.433414,0.98,rooftop,1361,"Womack Ave",,,Atlanta,GA,"Fulton County",30344,US,Fulton
+38.939457,-77.0253169,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+33.1917,-117.3799,33.191799,-117.379917,1,rooftop,158,"S Myers St",,,Oceanside,CA,"San Diego County",92054,US,Sandoval
+3.1581,101.5983,0,0,0,,,,,,,,,,,
+3.17575622,101.69279461,0,0,0,,,,,,,,,,,
+48.3544,15.8847,0,0,0,,,,,,,,,,,
+38.9394392,-77.0253361,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+19.40685419,72.83767787,0,0,0,,,,,,,,,,,
+41.63359,2.71204,0,0,0,,,,,,,,,,,
+13.7522,100.494,0,0,0,,,,,,,,,,,
+42.56361111,-84.83583333,42.563628,-84.835697,1,rooftop,107,"Cochran Ave",,,Charlotte,MI,"Eaton County",48813,US,Eaton
+37.0356,-76.45781,37.035602,-76.457805,1,rooftop,307,"Main St",,,"Newport News",VA,"Newport News City",23601,US,"City of Newport News"
+41.63356,2.7119,0,0,0,,,,,,,,,,,
+25.305393,49.610083,0,0,0,,,,,,,,,,,
+42.1497,-74.9384,42.155981,-74.941105,0.86,nearest_street,459,"Reed Rd",,,Hamden,NY,"Delaware County",13782,US,"TIGER/Line® dataset from the US Census Bureau"
+2.926804,101.64220132,0,0,0,,,,,,,,,,,
+28.631747,77.219672,0,0,0,,,,,,,,,,,
+40.74593584,-73.84350331,40.744321,-73.844255,0.97,rooftop,56-9,"Grand Central Pkwy",,,Corona,NY,"Queens County",11368,US,"City of New York"
+21.630101,39.120104,0,0,0,,,,,,,,,,,
+16.043875,120.48894882,0,0,0,,,,,,,,,,,
+33.88469,-117.5215,33.884835,-117.521146,1,nearest_street,,"CA 91",,,Corona,CA,"Riverside County",92879,US,"TIGER/Line® dataset from the US Census Bureau"
+10.6568,-61.5224,0,0,0,,,,,,,,,,,
+40.7779,-73.9675,40.776423,-73.963942,0.95,rooftop,970,"5th Ave",,,"New York",NY,"New York County",10075,US,"City of New York"
+-6.1803,106.8233,0,0,0,,,,,,,,,,,
+-33.35,151.5,0,0,0,,,,,,,,,,,
+29.948479,-90.070864,29.948389,-90.070726,1,rooftop,550,"St Charles Ave",,,"New Orleans",LA,"Orleans Parish",70130,US,"City of New Orleans"
+45.5236111,-122.675,45.523793,-122.675435,0.97,nearest_street,500,"NW Couch St",,,Portland,OR,"Multnomah County",97209,US,"TIGER/Line® dataset from the US Census Bureau"
+1.44111,103.771,0,0,0,,,,,,,,,,,
+40.16216216,-75.04539574,40.162225,-75.045456,1,rooftop,950,"Industrial Blvd",,,Southampton,PA,"Bucks County",18966,US,Bucks
+39.250317,-76.916582,39.250503,-76.916834,1,rooftop,11694,"Farside Rd",,,"Ellicott City",MD,"Howard County",21042,US,Howard
+29.68557,-82.30515,29.685573,-82.305149,1,rooftop,3575,"NE 15th St",,,Gainesville,FL,"Alachua County",32609,US,Alachua
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+-37.8833,145.0,0,0,0,,,,,,,,,,,
+34.07367453,-118.24027305,34.072503,-118.240765,0.98,rooftop,1000,"Vin Scully Ave",,,"Los Angeles",CA,"Los Angeles County",90012,US,"Los Angeles"
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+-29.0,24.0,0,0,0,,,,,,,,,,,
+26.1447672,-80.12586594,26.144833,-80.125884,1,rooftop,1408,"NE 17th Ave",,,"Fort Lauderdale",FL,"Broward County",33304,US,Broward
+-37.817798,144.968714,0,0,0,,,,,,,,,,,
+37.447321,138.854195,0,0,0,,,,,,,,,,,
+30.2677,-97.7475,30.267595,-97.747422,1,rooftop,410,"W 4th St",,,Austin,TX,"Travis County",78701,US,Capcog
+25.687,-80.3658,25.686653,-80.365538,0.99,rooftop,10690,"N Kendall Dr",,,Miami,FL,"Miami-Dade County",33176,US,Miami
+41.29447643,-72.92035389,41.29434,-72.920483,1,rooftop,400,"Sargent Dr",,,"New Haven",CT,"South Central Connecticut Planning Region",06511,US,"Connecticut Geospatial Information Systems Council"
+38.95217896,-121.05541184,38.952133,-121.055346,1,rooftop,787,"Haines Ct",,,Auburn,CA,"Placer County",95602,US,Placer
+53.5141,-6.54118,0,0,0,,,,,,,,,,,
+44.8424032,-79.90477388,44.842437,-79.904945,1,rooftop,1471,"Champlain Rd",,,Tiny,ON,,L9M,CA,Simcoe
+41.3911,2.15378,0,0,0,,,,,,,,,,,
+39.95246137,-75.13904929,39.952452,-75.138924,1,rooftop,21,"N Chris Columbus Blv",,,Philadelphia,PA,"Philadelphia County",19106,US,Philadelphia
+45.1559178,-93.1596594,45.155898,-93.15969,1,rooftop,10263,"Ghia St NE",,,"Circle Pines",MN,"Anoka County",55014,US,Anoka
+3.1588,101.7105,0,0,0,,,,,,,,,,,
+25.8138,-80.1335,25.813826,-80.133622,1,rooftop,820,"Arthur Godfrey Rd",,,"Miami Beach",FL,"Miami-Dade County",33140,US,Statewide2
+-28.07657,153.44367,0,0,0,,,,,,,,,,,
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+28.0167,73.3119,0,0,0,,,,,,,,,,,
+-32.9167,151.783,0,0,0,,,,,,,,,,,
+38.87325651,-77.00758083,38.873294,-77.007801,1,rooftop,1345,"1/2 St SE",,,Washington,DC,"District of Columbia",20003,US,"Statewide DC"
+24.8053426,87.2350907,0,0,0,,,,,,,,,,,
+43.7737,-79.2446,43.773313,-79.244392,0.99,rooftop,20,"Sunderland Cres",,,Scarborough,ON,,M1H,CA,"City of Toronto"
+37.79457,-122.400264,37.7947,-122.40067,0.99,rooftop,365,"Battery St",,,"San Francisco",CA,"San Francisco County",94111,US,"San Francisco"
+-25.0,135.0,0,0,0,,,,,,,,,,,
+33.77676,-84.38317,33.776767,-84.383175,1,rooftop,814,"Juniper St NE",,,Atlanta,GA,"Fulton County",30308,US,Fulton
+1.35075494,103.94867626,0,0,0,,,,,,,,,,,
+38.7164716,-9.14829708,0,0,0,,,,,,,,,,,
+34.09009089,-118.38601314,34.090031,-118.38592,1,rooftop,1019,"N San Vicente Blvd",,,"West Hollywood",CA,"Los Angeles County",90069,US,"Los Angeles"
+43.7742911,-79.7164011,43.774235,-79.716361,1,rooftop,12,"Pecan Dr",,,Brampton,ON,,L6P,CA,"City of Brampton"
+25.86417,-100.18917,25.863063,-100.188956,0.93,rooftop,SN,"Calle Ninguno",,,"Portal Del Norte",NLE,,65780,MX,Countrywide
+-33.79738147,151.28758733,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+44.80166626,-68.79741055,44.801713,-68.79745,1,rooftop,44,"McLaughlin St",,,Bangor,ME,"Penobscot County",04401,US,"Maine Office of GIS"
+35.24121094,-80.81245326,35.241317,-80.812381,1,rooftop,2412,"N Davidson St",,,Charlotte,NC,"Mecklenburg County",28205,US,Mecklenburg
+37.4391713,-122.1394165,37.439088,-122.139482,1,rooftop,1925,"Byron St",,,"Palo Alto",CA,"Santa Clara County",94301,US,"City of Palo Alto"
+41.3854908,-75.7080613,41.38561,-75.708138,1,rooftop,217,"N Main St",,,Taylor,PA,"Lackawanna County",18517,US,Lackawanna
+41.4996,-81.6937,41.499597,-81.693627,0.99,nearest_street,199,"US Hwy 42",,,Cleveland,OH,"Cuyahoga County",44103,US,"TIGER/Line® dataset from the US Census Bureau"
+49.88690136,-97.12894707,49.88683,-97.130027,0.99,rooftop,15,"Forks Market Rd",,,Winnipeg,MB,,R3C,CA,"City of Winnipeg"
+-33.9246,151.228,0,0,0,,,,,,,,,,,
+40.71229159,-73.88834411,40.712171,-73.888809,0.99,rooftop,67-34,"Metropolitan Ave",,,"Middle Village",NY,"Queens County",11379,US,"City of New York"
+44.2104,-69.0684,44.209993,-69.067937,0.99,rooftop,43,"Mechanic St",,,Camden,ME,"Knox County",04843,US,"Maine Office of GIS"
+33.4482,-112.0777,33.447683,-112.078312,0.99,rooftop,305,"W Washington St",,,Phoenix,AZ,"Maricopa County",85003,US,Maricopa
+42.25138378,-73.78793323,42.251481,-73.788012,1,rooftop,16,"N 4th St",,,Hudson,NY,"Columbia County",12534,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.78632957,-73.72918904,40.786352,-73.729111,1,rooftop,30,"Cuttermill Rd",,,"Great Neck",NY,"Nassau County",11021,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+1.44111,103.771,0,0,0,,,,,,,,,,,
+54.20816867,-5.89186384,0,0,0,,,,,,,,,,,
+38.77186,-121.31065,38.771883,-121.310652,1,rooftop,1249,"Pleasant Grove Blvd",,,Roseville,CA,"Placer County",95678,US,"City of Roseville"
+42.647546,-71.341849,42.647474,-71.341759,1,rooftop,295,"Varnum Ave",,,Lowell,MA,"Middlesex County",01854,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+33.727446,-84.449541,33.72838,-84.449413,0.98,rooftop,1125,"Cascade Cir SW",,,Atlanta,GA,"Fulton County",30311,US,Fulton
+33.8873,-118.4026,33.887202,-118.402499,1,rooftop,818,"Manhattan Beach Blvd",,,"Manhattan Beach",CA,"Los Angeles County",90266,US,"Los Angeles"
+42.13019368,-73.71112774,42.129965,-73.710443,0.99,rooftop,450,"Post Hill Rd",,,Craryville,NY,"Columbia County",12521,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+30.6795,-88.1033,30.679564,-88.103305,1,rooftop,2569,"Pathway Pl",,,Mobile,AL,"Mobile County",36606,US,"City of Mobile"
+29.8179128,-95.4197286,29.817887,-95.419792,1,rooftop,1130,"W 34th St",,,Houston,TX,"Harris County",77018,US,"Greater Houston"
+14.52269331,120.98322057,0,0,0,,,,,,,,,,,
+33.8873,-118.4026,33.887202,-118.402499,1,rooftop,818,"Manhattan Beach Blvd",,,"Manhattan Beach",CA,"Los Angeles County",90266,US,"Los Angeles"
+-32.9167,151.75,0,0,0,,,,,,,,,,,
+42.23171,-88.30548,42.231617,-88.305034,0.99,rooftop,415,"Congress Pkwy",,,"Crystal Lake",IL,"McHenry County",60014,US,Mchenry
+37.79858,-122.26316,37.797792,-122.263795,0.98,rooftop,59,"10th St",,,Oakland,CA,"Alameda County",94607,US,Alameda
+11.00966153,77.02459117,0,0,0,,,,,,,,,,,
+41.31643663,-88.9831008,41.311267,-88.9801,0.88,nearest_street,960,"E State Rte 71",,,Oglesby,IL,"Lasalle County",61348,US,"TIGER/Line® dataset from the US Census Bureau"
+-37.8156,144.9661,0,0,0,,,,,,,,,,,
+38.435209,-85.63459,38.422318,-85.667412,0.15,nearest_street,10416,"State Rd 62",,,Charlestown,IN,"Clark County",47111,US,"TIGER/Line® dataset from the US Census Bureau"
+34.1722,-118.378,34.17232,-118.37805,1,rooftop,11335,"W Burbank Blvd",,,"North Hollywood",CA,"Los Angeles County",91601,US,"City of Los Angeles"
+43.6833,-79.7667,43.683193,-79.766754,1,rooftop,41,"West St",,,Brampton,ON,,L6X,CA,"City of Brampton"
+30.30791152,-81.64074143,30.307695,-81.640803,1,rooftop,2411,"Atlantic Blvd",,,Jacksonville,FL,"Duval County",32207,US,Duval
+20.91267795,-156.40294429,20.911711,-156.403876,0.98,rooftop,204,"Kealakai Pl",,,Paia,HI,"Maui County",96779,US,Maui
+51.57558519,-0.10226432,0,0,0,,,,,,,,,,,
+38.89459749,-77.03678133,38.895405,-77.038821,0.97,rooftop,1699,"E St NW",,,Washington,DC,"District of Columbia",20006,US,"Statewide DC"
+14.61060657,121.05091789,0,0,0,,,,,,,,,,,
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+-37.34135281,144.14275761,0,0,0,,,,,,,,,,,
+51.50538967,-0.12485951,0,0,0,,,,,,,,,,,
+34.9387,-82.2271,34.938551,-82.227249,1,rooftop,100,"E Poinsett St",,,Greer,SC,"Greenville County",29651,US,Greenville
+33.7566,-84.3889,33.756352,-84.389155,0.99,rooftop,60,"Luckie St NW",,,Atlanta,GA,"Fulton County",30303,US,Fulton
+43.80047352,15.65595278,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+0.0,0.0,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+7.78333,98.3167,0,0,0,,,,,,,,,,,
+14.5896,120.9808,0,0,0,,,,,,,,,,,
+51.47395,-0.20181,0,0,0,,,,,,,,,,,
+10.32535234,123.95324957,0,0,0,,,,,,,,,,,
+1.38538719,103.89820967,0,0,0,,,,,,,,,,,
+29.68557,-82.30515,29.685573,-82.305149,1,rooftop,3575,"NE 15th St",,,Gainesville,FL,"Alachua County",32609,US,Alachua
+33.507132,-86.808665,33.506887,-86.808425,0.99,rooftop,1527,"3rd Ave S",,,Birmingham,AL,"Jefferson County",35233,US,Jefferson
+33.96,-84.03,33.961,-84.030313,0.99,nearest_street,,"GA 316",,,Norcross,GA,"Gwinnett County",30003,US,"TIGER/Line® dataset from the US Census Bureau"
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+3.066207,101.52732,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+17.3146,-62.7354,0,0,0,,,,,,,,,,,
+27.67306259,85.32571971,0,0,0,,,,,,,,,,,
+44.8424032,-79.90477388,44.842437,-79.904945,1,rooftop,1471,"Champlain Rd",,,Tiny,ON,,L9M,CA,Simcoe
+-28.0672,153.437,0,0,0,,,,,,,,,,,
+63.4305,10.3951,0,0,0,,,,,,,,,,,
+-33.39509392,-70.79076544,0,0,0,,,,,,,,,,,
+3.12015843,101.6064765,0,0,0,,,,,,,,,,,
+27.7964,-97.3976,27.795448,-97.396012,0.93,nearest_street,362,"N Lower Broadway St",,,"Corpus Christi",TX,"Nueces County",78401,US,"TIGER/Line® dataset from the US Census Bureau"
+39.9527,-75.1651,39.952572,-75.165291,1,rooftop,1500S,"Market St",,,Philadelphia,PA,"Philadelphia County",19102,US,Philadelphia
+35.71546944,139.77401944,0,0,0,,,,,,,,,,,
+6.5817,3.35,0,0,0,,,,,,,,,,,
+52.0167,-1.26667,0,0,0,,,,,,,,,,,
+12.85213966,80.22611094,0,0,0,,,,,,,,,,,
+51.562662,-0.17988195,0,0,0,,,,,,,,,,,
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+38.7261,-9.1394,0,0,0,,,,,,,,,,,
+8.4559131,124.6233058,0,0,0,,,,,,,,,,,
+-33.81853013,151.29624917,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+-33.8719165,151.20155028,0,0,0,,,,,,,,,,,
+-37.8156,144.9661,0,0,0,,,,,,,,,,,
+45.6677507,-73.47935661,45.66937,-73.491993,0.84,nearest_street,5,"52E Ave",,,Pointe-Aux-Trembles,QC,,H1A,CA,"CanVec+ by Natural Resources Canada"
+25.386023,49.571276,0,0,0,,,,,,,,,,,
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+22.2482,114.168,0,0,0,,,,,,,,,,,
+41.39444,2.15343,0,0,0,,,,,,,,,,,
+47.56237593,-52.71022853,47.562323,-52.71014,1,rooftop,377,"Duckworth St",,,"St. John's",NL,,A1C,CA,"City of Saint Johns"
+43.8564,-70.103,43.856629,-70.10347,0.99,rooftop,66,"Main St",,,Freeport,ME,"Cumberland County",04032,US,"Maine Office of GIS"
+22.29855573,114.17778161,0,0,0,,,,,,,,,,,
+33.601926,-117.868184,33.601681,-117.867689,0.99,rooftop,833,"Hibiscus Ct",,,"Corona Del Mar",CA,"Orange County",92625,US,Orange
+14.51896992,121.01938248,0,0,0,,,,,,,,,,,
+14.30706861,121.12182431,0,0,0,,,,,,,,,,,
+26.05161662,-80.21126747,26.05139,-80.21184,0.99,rooftop,5700,"Seminole Way",,,"Fort Lauderdale",FL,"Broward County",33314,US,Statewide2
+14.01666667,107.9,0,0,0,,,,,,,,,,,
+38.4623,-92.302,38.459525,-92.301109,0.95,rooftop,8500,"Natures Way",,,"Jefferson City",MO,"Cole County",65109,US,Cole
+41.48495282,-71.52969469,41.48507,-71.529788,1,rooftop,50,"Lower College Rd",,,Kingston,RI,"Washington County",02881,US,"Statewide RI"
+10.32535234,123.95324957,0,0,0,,,,,,,,,,,
+40.809148,-73.946794,40.809295,-73.946717,1,rooftop,151,"W 126th St",,,"New York",NY,"New York County",10027,US,"City of New York"
+-11.0,-53.0,0,0,0,,,,,,,,,,,
+-6.290138,106.8424732,0,0,0,,,,,,,,,,,
+-37.75477068,145.03597147,0,0,0,,,,,,,,,,,
+3.12015843,101.6064765,0,0,0,,,,,,,,,,,
+51.50538967,-0.12485951,0,0,0,,,,,,,,,,,
+-35.40833333,149.06666667,0,0,0,,,,,,,,,,,
+29.7602,-95.3694,29.760193,-95.369362,1,rooftop,901,"Bagby St",,,Houston,TX,"Harris County",77002,US,"City of Houston"
+3.16526334,101.60842598,0,0,0,,,,,,,,,,,
+1.29306,103.856,0,0,0,,,,,,,,,,,
+-37.81778517,145.21569729,0,0,0,,,,,,,,,,,
+-33.7968,151.124,0,0,0,,,,,,,,,,,
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+35.9960506,-78.8992192,35.995758,-78.899335,0.99,rooftop,106,"City Hall Plz",,,Durham,NC,"Durham County",27701,US,Durham
+34.007033,-84.31765,34.007062,-84.317563,1,rooftop,335,"Southwind Cir",,,Roswell,GA,"Fulton County",30076,US,Fulton
+1.48225703,103.94678826,0,0,0,,,,,,,,,,,
+3.1588,101.7105,0,0,0,,,,,,,,,,,
+53.59179627,-0.68011608,0,0,0,,,,,,,,,,,
+25.76662725,-80.19268341,25.766761,-80.192678,1,rooftop,29,"SE 8th St",,,Miami,FL,"Miami-Dade County",33131,US,Miami
+34.83890455,-82.36358456,34.838949,-82.363569,1,rooftop,225,"A S Pleasantburg Dr",,,Greenville,SC,"Greenville County",29607,US,Greenville
+-6.79687834,39.1071434,0,0,0,,,,,,,,,,,
+10.32535234,123.95324957,0,0,0,,,,,,,,,,,
+14.69287249,121.11002421,0,0,0,,,,,,,,,,,
+-28.8315,153.53189,0,0,0,,,,,,,,,,,
+13.73237484,100.53680747,0,0,0,,,,,,,,,,,
+45.5236111,-122.675,45.523793,-122.675435,0.97,nearest_street,500,"NW Couch St",,,Portland,OR,"Multnomah County",97209,US,"TIGER/Line® dataset from the US Census Bureau"
+53.41345533,-2.94466627,0,0,0,,,,,,,,,,,
+14.5481,120.997,0,0,0,,,,,,,,,,,
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+36.1675,-115.149,36.167372,-115.149542,0.99,rooftop,432,"S Main St",,,"Las Vegas",NV,"Clark County",89101,US,"Las Vegas"
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+39.2025,-85.9198,39.202503,-85.919739,0.99,nearest_street,500,"4th St",,,Columbus,IN,"Bartholomew County",47201,US,"TIGER/Line® dataset from the US Census Bureau"
+51.5141,-0.1094,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+41.39388,2.15463,0,0,0,,,,,,,,,,,
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+51.50413561,-0.13608912,0,0,0,,,,,,,,,,,
+37.08108108,-121.59823077,37.081791,-121.59851,0.99,rooftop,13021,"Murphy Ave",,,"San Martin",CA,"Santa Clara County",95046,US,"Santa Clara"
+14.64746393,121.11665349,0,0,0,,,,,,,,,,,
+40.74635,-73.845093,40.745769,-73.847014,0.97,rooftop,126,"Meridian Rd",,,Corona,NY,"Queens County",11368,US,"City of New York"
+38.9078,-76.9982,38.907767,-76.998155,1,rooftop,1271,"5th St NE",,,Washington,DC,"District of Columbia",20002,US,"Statewide DC"
+33.4482,-112.0777,33.447683,-112.078312,0.99,rooftop,305,"W Washington St",,,Phoenix,AZ,"Maricopa County",85003,US,Maricopa
+29.6183,-95.6368,29.617911,-95.63656,0.99,rooftop,203,"Matlage Way",,,"Sugar Land",TX,"Fort Bend County",77478,US,"Fort Bend"
+41.7101909,-111.8349363,41.709952,-111.835096,1,rooftop,1201,"S Main St",,,Logan,UT,"Cache County",84321,US,"Utah AGRC (and individual UT counties)"
+44.43417593,-68.316642,44.434334,-68.316333,1,rooftop,910,"State Highway 3",,,"Bar Harbor",ME,"Hancock County",04609,US,"Maine Office of GIS"
+43.6587,-70.2663,43.658875,-70.266316,1,rooftop,111,"Forest Ave",,,Portland,ME,"Cumberland County",04101,US,"Maine Office of GIS"
+23.6039,58.5367,0,0,0,,,,,,,,,,,
+29.235034,48.009312,0,0,0,,,,,,,,,,,
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+12.116667,-61.666667,0,0,0,,,,,,,,,,,
+38.4623,-92.302,38.459525,-92.301109,0.95,rooftop,8500,"Natures Way",,,"Jefferson City",MO,"Cole County",65109,US,Cole
+29.75435,-95.413332,29.7545,-95.413312,1,rooftop,2209,"Pine Valley Dr",,,Houston,TX,"Harris County",77019,US,"City of Houston"
+37.81698121,-122.2848081,37.817119,-122.284922,1,rooftop,2319,"Magnolia St",,,Oakland,CA,"Alameda County",94607,US,Alameda
+40.97422786,-72.7099724,40.974246,-72.710025,1,rooftop,75,"Jean Ct",,,Riverhead,NY,"Suffolk County",11901,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+45.5064511,-122.7756216,45.50646,-122.77537,1,rooftop,1850,"SW 96th Ave",,,Portland,OR,"Washington County",97225,US,Wallowa
+40.7779,-73.9675,40.776423,-73.963942,0.95,rooftop,970,"5th Ave",,,"New York",NY,"New York County",10075,US,"City of New York"
+33.1917,-117.3799,33.191799,-117.379917,1,rooftop,158,"S Myers St",,,Oceanside,CA,"San Diego County",92054,US,Sandoval
+14.82679614,120.87762101,0,0,0,,,,,,,,,,,
+38.8951,-77.0367,38.895405,-77.038821,0.97,rooftop,1699,"E St NW",,,Washington,DC,"District of Columbia",20006,US,"Statewide DC"
+37.73512213,-122.39009946,37.735004,-122.390175,1,rooftop,4705,"3rd St",,,"San Francisco",CA,"San Francisco County",94124,US,"San Francisco"
+33.0769,-99.9553,33.076644,-99.955394,1,rooftop,2273,"State Highway 283",,,Rule,TX,"Haskell County",79548,US,"Statewide TX"
+33.10299683,-111.4926005,33.103013,-111.492534,1,rooftop,6844,"E Pine Way",,,Florence,AZ,"Pinal County",85132,US,Pinal
+37.55767822,-77.47761587,37.557641,-77.477668,1,rooftop,3102,"Hanover Ave",,,Richmond,VA,"Richmond City",23221,US,"City of Richmond"
+21.0,77.0,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+32.74328478,-97.11243082,32.74338,-97.112408,1,rooftop,501,"W Sanford St",,,Arlington,TX,"Tarrant County",76011,US,"Statewide TX"
+35.9960271,-78.8992175,35.995758,-78.899335,1,rooftop,106,"City Hall Plz",,,Durham,NC,"Durham County",27701,US,Durham
+-28.64245768,153.61290883,0,0,0,,,,,,,,,,,
+25.57873126,-80.33682234,25.578757,-80.336808,1,rooftop,20305,"Old Cutler Rd",,,"Cutler Bay",FL,"Miami-Dade County",33189,US,Miami
+37.764425,-122.438569,37.764423,-122.43815,0.99,rooftop,199,"Museum Way",,,"San Francisco",CA,"San Francisco County",94114,US,"San Francisco"
+33.8443,-116.5279,33.844429,-116.527676,1,rooftop,1717,"E Vista Chino",,,"Palm Springs",CA,"Riverside County",92262,US,Riverside
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+6.66868,-1.64597,0,0,0,,,,,,,,,,,
+33.8753,-117.566,33.87508,-117.56608,1,rooftop,142,"E 6th St",,,Corona,CA,"Riverside County",92879,US,Riverside
+36.98852704,-121.55440271,36.988416,-121.554155,1,rooftop,335,"Mayock Rd",,,Gilroy,CA,"Santa Clara County",95020,US,"Santa Clara"
+21.32189997,39.94367123,0,0,0,,,,,,,,,,,
+53.341541,0.26029,0,0,0,,,,,,,,,,,
+37.00748198,-121.57053318,37.007567,-121.570681,1,rooftop,7467,"Eigleberry St",,,Gilroy,CA,"Santa Clara County",95020,US,"Santa Clara"
+34.0564,-118.2445,34.05623,-118.24512,0.99,rooftop,225,"N Hill St",,,"Los Angeles",CA,"Los Angeles County",90012,US,"City of Los Angeles"
+35.9960572,-78.8992284,35.995758,-78.899335,0.99,rooftop,106,"City Hall Plz",,,Durham,NC,"Durham County",27701,US,Durham
+42.28083503,-83.74724593,42.280825,-83.747091,1,rooftop,115,"S 4th Ave",,,"Ann Arbor",MI,"Washtenaw County",48104,US,Washtenaw
+43.85077,-79.02108,43.850754,-79.020503,0.99,rooftop,65,"Harwood Ave S",,,Ajax,ON,,L1S,CA,Oshawa
+38.9017929,-77.0493245,38.901944,-77.049277,1,rooftop,2200,"Pennsylvania Ave NW",,,Washington,DC,"District of Columbia",20037,US,"Statewide DC"
+38.577,-121.4947,38.577572,-121.495415,0.99,rooftop,915,"Capitol Mall",,,Sacramento,CA,"Sacramento County",95814,US,Sacramento
+45.6677507,-73.47935661,45.66937,-73.491993,0.84,nearest_street,5,"52E Ave",,,Pointe-Aux-Trembles,QC,,H1A,CA,"CanVec+ by Natural Resources Canada"
+40.82882883,-76.19959597,40.82781,-76.200034,0.95,nearest_street,476,"Ohio Ave",,,Shenandoah,PA,"Schuylkill County",17976,US,"TIGER/Line® dataset from the US Census Bureau"
+33.438543,-86.717652,33.438698,-86.717498,1,rooftop,3570,"Grandview Pkwy",,,Birmingham,AL,"Jefferson County",35243,US,Jefferson
+34.0564,-118.2445,34.05623,-118.24512,0.99,rooftop,225,"N Hill St",,,"Los Angeles",CA,"Los Angeles County",90012,US,"City of Los Angeles"
+53.3476,-6.2591,0,0,0,,,,,,,,,,,
+41.39268,2.15316,0,0,0,,,,,,,,,,,
+39.08044434,-84.5178515,39.080487,-84.517807,1,rooftop,829,"Main St",,,Covington,KY,"Kenton County",41011,US,Kenton
+40.72377783,-74.18848217,40.723549,-74.188318,1,rooftop,37,"Avon Ave",,,Newark,NJ,"Essex County",07108,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+51.0846825,13.6966791,0,0,0,,,,,,,,,,,
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+49.44648095,-123.01936819,49.446481,-123.019368,0.09,nearest_place,,,,,Vancouver,BC,,V7R,CA,"CanVec+ by Natural Resources Canada"
+43.7742911,-79.7164011,43.774235,-79.716361,1,rooftop,12,"Pecan Dr",,,Brampton,ON,,L6P,CA,"City of Brampton"
+45.5064511,-122.7756216,45.50646,-122.77537,1,rooftop,1850,"SW 96th Ave",,,Portland,OR,"Washington County",97225,US,Wallowa
+26.30201917,-80.20111978,26.301947,-80.201117,1,rooftop,5750,"N State Road 7",,,"Coconut Creek",FL,"Broward County",33073,US,Loveland
+-26.1741,28.3327,0,0,0,,,,,,,,,,,
+41.3854908,-75.7080613,41.38561,-75.708138,1,rooftop,217,"N Main St",,,Taylor,PA,"Lackawanna County",18517,US,Lackawanna
+20.26614252,85.84218979,0,0,0,,,,,,,,,,,
+-6.1803,106.8233,0,0,0,,,,,,,,,,,
+53.95458755,-1.05894633,0,0,0,,,,,,,,,,,
+-31.9513,115.858,0,0,0,,,,,,,,,,,
+10.6568,-61.5224,0,0,0,,,,,,,,,,,
+41.39291,2.15443,0,0,0,,,,,,,,,,,
+33.5564165,72.83394814,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+14.5867,121.1757,0,0,0,,,,,,,,,,,
+32.33798218,-95.30226324,32.3377,-95.302268,1,rooftop,212,"Lindsey Ln",,,Tyler,TX,"Smith County",75701,US,"Statewide TX"
+33.88117,-117.6177,33.881048,-117.617896,1,nearest_street,,"CA 91",,,Corona,CA,"Riverside County",92882,US,"TIGER/Line® dataset from the US Census Bureau"
+25.1066,-80.4299,25.106649,-80.42991,1,rooftop,7,"Madeira Dr",,,"Key Largo",FL,"Monroe County",33037,US,Statewide2
+33.633537,-117.876686,33.633599,-117.875492,0.98,rooftop,2227,"Aralia St",,,"Newport Beach",CA,"Orange County",92660,US,Orange
+41.79181636,-87.60714502,41.791761,-87.607054,1,rooftop,740,"E 56th Pl",,,Chicago,IL,"Cook County",60637,US,Cook
+49.2819,-123.1204,49.281549,-123.120948,0.99,rooftop,818,"Howe St",,,Vancouver,BC,,V6B,CA,Vancouver
+45.67070719,-111.07427917,45.670592,-111.074295,1,rooftop,2820,"W College St",,,Bozeman,MT,"Gallatin County",59715,US,"Montana State Library"
+28.1473961,-82.2964401,28.147358,-82.296437,1,rooftop,10630,"Plantation Bay Dr",,,Tampa,FL,"Hillsborough County",33647,US,Hillsborough
+38.9394382,-77.0253803,38.939549,-77.025353,1,rooftop,908,"Shepherd St NW",,,Washington,DC,"District of Columbia",20011,US,"Statewide DC"
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+33.0504,-96.7459,33.050513,-96.745729,1,rooftop,2708,"Pawnee Cir",,,Plano,TX,"Collin County",75023,US,Plano
+41.88896924,-87.63300699,41.888826,-87.633003,1,rooftop,149,"W Kinzie St",,,Chicago,IL,"Cook County",60654,US,Cook
+53.5141,-6.54118,0,0,0,,,,,,,,,,,
+33.0504,-96.7459,33.050513,-96.745729,1,rooftop,2708,"Pawnee Cir",,,Plano,TX,"Collin County",75023,US,Plano
+34.14626269,-118.10036474,34.146416,-118.100227,1,rooftop,2427,"E Colorado Blvd",,,Pasadena,CA,"Los Angeles County",91107,US,"Los Angeles"
+40.7536668,-73.9950324,40.753818,-73.994985,1,rooftop,357,"W 35th St",,,"New York",NY,"New York County",10001,US,"City of New York"
+34.99831474,-106.63085192,35.003727,-106.643907,0.83,nearest_street,,I-25,,,Albuquerque,NM,"Bernalillo County",87105,US,"TIGER/Line® dataset from the US Census Bureau"
+33.76308727,-118.15649367,33.762818,-118.156578,1,rooftop,3040,"E 1st St",,,"Long Beach",CA,"Los Angeles County",90803,US,"Los Angeles"
+34.4258,-119.714,34.425694,-119.713979,1,rooftop,216,"W Valerio St",,,"Santa Barbara",CA,"Santa Barbara County",93101,US,"Santa Barbara"
+-33.86751,151.20797,0,0,0,,,,,,,,,,,
+33.445,-84.14916667,33.444751,-84.14861,0.99,rooftop,87,"Griffin St",,,McDonough,GA,"Henry County",30253,US,Henry
+32.6629941,-95.4853619,32.662904,-95.485395,1,rooftop,411,"E Broad St",,,Mineola,TX,"Wood County",75773,US,"Statewide TX"
+14.56811978,121.04230464,0,0,0,,,,,,,,,,,
+41.4996,-81.6937,41.499597,-81.693627,0.99,nearest_street,199,"US Hwy 42",,,Cleveland,OH,"Cuyahoga County",44103,US,"TIGER/Line® dataset from the US Census Bureau"
+-24.15,28.9833,0,0,0,,,,,,,,,,,
+-25.42778,-49.27306,0,0,0,,,,,,,,,,,
+4.60203096,101.11976996,0,0,0,,,,,,,,,,,
+-33.92300415,151.09096977,0,0,0,,,,,,,,,,,
+-25.42778,-49.27306,0,0,0,,,,,,,,,,,
+40.78061,-73.98172,40.780602,-73.981718,1,rooftop,2121,Broadway,,,"New York",NY,"New York County",10023,US,"City of New York"
+40.7308539,-73.57624957,40.729537,-73.576529,0.98,rooftop,200,"Merrick Ave",,,"East Meadow",NY,"Nassau County",11554,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+14.59083333,121.05944444,0,0,0,,,,,,,,,,,
+40.82874907,-73.92413457,40.828773,-73.924048,1,rooftop,918,"Gerard Ave",,,Bronx,NY,"Bronx County",10452,US,"City of New York"
+-28.0183,153.3921,0,0,0,,,,,,,,,,,
+41.08108108,-112.03587781,41.080835,-112.036197,0.99,rooftop,548,"W 2300 S",,,Syracuse,UT,"Davis County",84075,US,"Utah AGRC (and individual UT counties)"
+34.06061,-118.28072,34.060481,-118.280839,1,rooftop,2511,"Wilshire Blvd",,,"Los Angeles",CA,"Los Angeles County",90057,US,"Los Angeles"
+45.1559334,-93.1597152,45.155898,-93.15969,1,rooftop,10263,"Ghia St NE",,,"Circle Pines",MN,"Anoka County",55014,US,Anoka
+33.88117,-117.6177,33.881048,-117.617896,1,nearest_street,,"CA 91",,,Corona,CA,"Riverside County",92882,US,"TIGER/Line® dataset from the US Census Bureau"
+33.5647,-101.878,33.56458,-101.877937,1,rooftop,2816,"33rd St",,,Lubbock,TX,"Lubbock County",79410,US,Lubbock
+45.63697547,-73.56726563,45.635688,-73.56765,0.98,rooftop,9055,"Boul Henri-Bourassa E",,,Rivière-Des-Prairies,QC,,H1E,CA,"Service Des Infrastructures Du Réseau Routier - Division de la géomatique"
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+26.7781682,-80.0806654,26.778153,-80.080674,1,rooftop,1591,"W 19th St",,,"Riviera Beach",FL,"Palm Beach County",33404,US,"Palm Beach County"
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+40.74119,-88.7225,40.741164,-88.722513,1,rooftop,102,"E Cemetery Ave",,,Chenoa,IL,"McLean County",61726,US,Mclean
+14.55775,120.9973,0,0,0,,,,,,,,,,,
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+37.5594,-90.2945,37.559241,-90.294292,1,rooftop,17,"Court Sq",,,Fredericktown,MO,"Madison County",63645,US,Madison
+45.67070719,-111.07427917,45.670592,-111.074295,1,rooftop,2820,"W College St",,,Bozeman,MT,"Gallatin County",59715,US,"Montana State Library"
+33.81487778,-117.92140617,33.814677,-117.921523,1,rooftop,1313,"S Harbor Blvd",,,Anaheim,CA,"Orange County",92802,US,"City of Anaheim"
+45.1559022,-93.1596899,45.155898,-93.15969,1,rooftop,10263,"Ghia St NE",,,"Circle Pines",MN,"Anoka County",55014,US,Anoka
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+40.16216216,-75.06897268,40.162502,-75.069011,1,nearest_street,,I-276,,,"Huntingdon Valley",PA,"Montgomery County",19006,US,"TIGER/Line® dataset from the US Census Bureau"
+-32.73438,152.00239,0,0,0,,,,,,,,,,,
+42.1179994,-72.7598274,42.118034,-72.75976,1,rooftop,4,"Mill St",,,Westfield,MA,"Hampden County",01085,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+33.30743378,-84.37996763,33.307604,-84.380017,1,rooftop,57,"Bicycle Rd",,,Griffin,GA,"Spalding County",30223,US,"Spalding County"
+51.5447969,0.04968474,0,0,0,,,,,,,,,,,
+21.32189997,39.94367123,0,0,0,,,,,,,,,,,
+42.3577,-71.0565,42.357708,-71.056281,1,rooftop,82,"Water St",,,Boston,MA,"Suffolk County",02109,US,"City of Boston"
+-34.75671,149.71666,0,0,0,,,,,,,,,,,
+33.200341,-94.956258,33.199884,-94.956336,0.99,rooftop,3140,"Harts Bluff Rd",,,"Mount Pleasant",TX,"Titus County",75455,US,"Statewide TX"
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+-37.88940544,144.77291365,0,0,0,,,,,,,,,,,
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+45.75975883,-73.56725453,45.759306,-73.565976,0.43,nearest_street,1662,"Chemin De La Cabane-Ronde",,,Mascouche,QC,,J7K,CA,"CanVec+ by Natural Resources Canada"
+42.88667,-78.87215,42.886675,-78.872153,1,rooftop,47,"E Mohawk St",,,Buffalo,NY,"Erie County",14203,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.5767,-74.3674,40.576868,-74.367504,1,rooftop,6,"Wendy Ct",,,Edison,NJ,"Middlesex County",08820,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+25.01144015,121.51488075,0,0,0,,,,,,,,,,,
+-1.292066,36.821945,0,0,0,,,,,,,,,,,
+33.8753,-117.566,33.87508,-117.56608,1,rooftop,142,"E 6th St",,,Corona,CA,"Riverside County",92879,US,Riverside
+22.49798769,88.37564812,0,0,0,,,,,,,,,,,
+-33.815,151.1689,0,0,0,,,,,,,,,,,
